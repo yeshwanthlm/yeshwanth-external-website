@@ -93,6 +93,8 @@ window.SITE = {
 
   talks: {
     2026: [
+      ["Speaker, AWS Student Community Day Mysuru 2026, Vidyavardhaka College of Engineering (VVCE), Mysuru", "https://scd.awsmysuru.in"],
+      ["Resource Person, Two-Day Hands-on Training: Building Production-Ready AI Agents with Amazon Bedrock and AgentCore, JAIN (Deemed-to-be University), Faculty of Engineering and Technology", ""],
       ["Building and Deploying Production-Grade Agents on AgentCore, Agentic AI Summit 2026, IISc Bengaluru", "https://aisummit.ieeebangalore.org"],
       ["Interactive session on Cloud & DevOps, Amrita Vishwa Vidyapeetham Mysuru Campus", ""],
       ["Navigating the Cloud Era: Career Pathways, AI Integration and AWS Architecture, AWS Student Builder Group launch, Maharaja Institute of Technology Thandavapura", ""],
