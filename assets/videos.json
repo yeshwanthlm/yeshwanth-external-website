@@ -1,0 +1,3643 @@
+{
+ "channel": {
+  "id": "UCwhERUcuzUCwr8x8mQ8zrcw",
+  "title": "Tech With Yeshwanth",
+  "url": "https://www.youtube.com/@techwithyeshwanth",
+  "source": "rss",
+  "synced": "2026-11-11T17:44:34.593Z"
+ },
+ "videos": [
+  {
+   "id": "J7ao_1c8TP8",
+   "title": "One API Key for Hundreds of AI Models: n1n.ai Explained + Build Demo",
+   "published": "2026-11-10T13:30:07+00:00",
+   "duration": 543,
+   "views": 127,
+   "short": false
+  },
+  {
+   "id": "XmaLNbJ9Ghw",
+   "title": "AWS Lambda Web Functions Explained: Deploy Your App in One Command in 13 Mins",
+   "published": "2026-10-30T13:30:03+00:00",
+   "duration": 778,
+   "views": 568,
+   "short": false
+  },
+  {
+   "id": "LHOMC62aRMs",
+   "title": "PHP2Shell: How One Request Can Run Code on Your Server | PHP2Shell Explained | What is PHP2Shell?",
+   "published": "2026-10-28T13:30:14+00:00",
+   "duration": 664,
+   "views": 790,
+   "short": false
+  },
+  {
+   "id": "h6GZxaAzvus",
+   "title": "I Paid $1/Month For 3 AI Models (DeepSeek, GLM, Kimi) with 500M Input Tokens & 50M Output Tokens",
+   "published": "2026-10-25T14:48:32+00:00",
+   "duration": 607,
+   "views": 1531,
+   "short": false
+  },
+  {
+   "id": "aLaezApU_90",
+   "title": "I Routed a Support Ticket With AI in One Call (Jev + Python)",
+   "published": "2026-10-09T14:00:34+00:00",
+   "duration": 853,
+   "views": 291,
+   "short": false
+  },
+  {
+   "id": "fEBY0q27QFQ",
+   "title": "AI Added Fields I Never Asked For. The New Model Jev Fixes This",
+   "published": "2026-10-06T13:30:18+00:00",
+   "duration": 589,
+   "views": 351,
+   "short": false
+  },
+  {
+   "id": "Ei1VZqgCl04",
+   "title": "If You Explain an AI Agent Like This, You'll Get Rejected in Interviews",
+   "published": "2026-09-22T13:30:37+00:00",
+   "duration": 508,
+   "views": 432,
+   "short": false
+  },
+  {
+   "id": "OvDsVD6nshw",
+   "title": "The Safest Way to Authenticate AWS CLI in 2026 (No Access Keys Needed)",
+   "published": "2026-09-18T13:30:25+00:00",
+   "duration": 543,
+   "views": 1126,
+   "short": false
+  },
+  {
+   "id": "mW0P9MzTPww",
+   "title": "NEW Kubernetes Certification: CKNE Explained (All 5 Domains)",
+   "published": "2026-09-15T13:30:28+00:00",
+   "duration": 481,
+   "views": 735,
+   "short": false
+  },
+  {
+   "id": "hDfg8-ANCQI",
+   "title": "This AI IDE Is Free for Students — 1,000 Credits/Month for a Year",
+   "published": "2026-09-11T13:30:14+00:00",
+   "duration": 380,
+   "views": 2543,
+   "short": false
+  },
+  {
+   "id": "xRcM1RBPzGI",
+   "title": "Your AWS EC2 Can Lie to You, Here's How to Catch It | The AWS Health Check Nobody Uses (But Should)",
+   "published": "2026-08-28T13:30:35+00:00",
+   "duration": 1188,
+   "views": 462,
+   "short": false
+  },
+  {
+   "id": "x_OAshA93pU",
+   "title": "How to Build and Run a Firecracker AWS Lambda MicroVM from Scratch | How to Create Lambda MicroVMs?",
+   "published": "2026-07-10T13:30:34+00:00",
+   "duration": 996,
+   "views": 740,
+   "short": false
+  },
+  {
+   "id": "r0UfGwJ7Pkk",
+   "title": "AWS Lambda MicroVMs Explained: AWS's New Compute Primitive for AI Agents & Code Sandboxes",
+   "published": "2026-07-07T13:30:27+00:00",
+   "duration": 1211,
+   "views": 1433,
+   "short": false
+  },
+  {
+   "id": "rTJ63kw2bqo",
+   "title": "How to Get Kiro AI Pro Subscription for 100% FREE! AI Ambassador Program: Unlock Free Premium Access",
+   "published": null,
+   "duration": 650,
+   "views": 10000,
+   "short": false
+  },
+  {
+   "id": "P_VMQXPp748",
+   "title": "Stop Using Bad AI Agents! Deploy Self-Improving Hermes on AWS | (Better than OpenClaw?) | Demo",
+   "published": null,
+   "duration": 1482,
+   "views": 2000,
+   "short": false
+  },
+  {
+   "id": "9whVQ-2rLqc",
+   "title": "How to Run LLMs on Kubernetes (AWS EKS Cluster) with LLMKube? (Step-by-Step) | Hands-on Tutorial",
+   "published": null,
+   "duration": 1642,
+   "views": 1200,
+   "short": false
+  },
+  {
+   "id": "rqhhIp3Youo",
+   "title": "Build with Claude INSIDE AWS | Setting up Claude Platform on AWS - Step by Step with Demo",
+   "published": null,
+   "duration": 811,
+   "views": 6500,
+   "short": false
+  },
+  {
+   "id": "L1A9DSr1_tE",
+   "title": "Did AI Fool Us? The Shocking Truth Behind Tech's New Job Trend, What is Forward Deployed Engineer?",
+   "published": null,
+   "duration": 375,
+   "views": 2200,
+   "short": false
+  },
+  {
+   "id": "olFb1KDhTWY",
+   "title": "Create & Deploy Custom MCP Server on AWS EC2 Using Python FastMCP (Prod Ready!) | Hands-on Demo",
+   "published": null,
+   "duration": 1004,
+   "views": 1700,
+   "short": false
+  },
+  {
+   "id": "Opb6PppoSgw",
+   "title": "How to Create Custom MCP Server & Connect with Strands Agents? Hands-on",
+   "published": null,
+   "duration": 427,
+   "views": 271,
+   "short": false
+  },
+  {
+   "id": "jF01mgtCR8c",
+   "title": "AI Agent Deleted Production Database in 9 Seconds! What is AI Agent Evaluation and How it Works?",
+   "published": null,
+   "duration": 1196,
+   "views": 173,
+   "short": false
+  },
+  {
+   "id": "J5eijLVkuek",
+   "title": "Build Your Own Serverless MCP Backend Using AWS Lambda, API Gateway, DynamoDB, SigV4",
+   "published": null,
+   "duration": 2187,
+   "views": 737,
+   "short": false
+  },
+  {
+   "id": "oAT7RAVJdDY",
+   "title": "AWS S3 Files — Mount S3 as a File System on EC2 using Terraform | Hands-on Demo",
+   "published": null,
+   "duration": 1421,
+   "views": 712,
+   "short": false
+  },
+  {
+   "id": "0S4a8-XPj34",
+   "title": "Build a Local AI Agent with Gemma 4 & Strands SDK (No API Keys!) | Gemma 4 + Ollama + Strands SDK",
+   "published": null,
+   "duration": 477,
+   "views": 1800,
+   "short": false
+  },
+  {
+   "id": "Y1olpdu7iJU",
+   "title": "Master AgentCore & Build production-ready AI agents with Strands How the Loop Works? Message History",
+   "published": null,
+   "duration": 898,
+   "views": 517,
+   "short": false
+  },
+  {
+   "id": "2js7DI3F3sc",
+   "title": "Master AgentCore & Build production-ready AI agents with Strands | Introduction to Strands Framework",
+   "published": null,
+   "duration": 655,
+   "views": 509,
+   "short": false
+  },
+  {
+   "id": "-55SpN9LIDM",
+   "title": "Master AgentCore & Build production-ready AI agents with Strands | Prerequisites AWS, Kiro MCP Setup",
+   "published": null,
+   "duration": 810,
+   "views": 1000,
+   "short": false
+  },
+  {
+   "id": "8oya0xmfJBo",
+   "title": "Master AgentCore & Build production-ready AI agents with Strands | Introduction to Bedrock AgentCore",
+   "published": null,
+   "duration": 814,
+   "views": 2000,
+   "short": false
+  },
+  {
+   "id": "gtRKT831NP8",
+   "title": "Build an AI Knowledge Base with MCP Server, Confluence & AWS Bedrock | RAG for Enterprise Docs Demo",
+   "published": null,
+   "duration": 1946,
+   "views": 2600,
+   "short": false
+  },
+  {
+   "id": "iu27aiRRVI4",
+   "title": "AWS Project to Get you Hired: Build & Deploy Production Grade AI Agents on AWS | Hands-On Demo",
+   "published": null,
+   "duration": 2584,
+   "views": 4600,
+   "short": false
+  },
+  {
+   "id": "H2Hdx8mXwpk",
+   "title": "AWS Project to Get you Hired: Build a Certification Approval System with Step Functions, Lambda, API",
+   "published": null,
+   "duration": 2334,
+   "views": 1800,
+   "short": false
+  },
+  {
+   "id": "SKK6JaI2Guo",
+   "title": "AWS User Groups Swag Unboxing | What are AWS User Groups? | How to Join or Start AWS User Groups",
+   "published": null,
+   "duration": 1135,
+   "views": 442,
+   "short": false
+  },
+  {
+   "id": "wd07yp9rX7I",
+   "title": "AWS Project to Get you Hired: Real-Time Data Analytics Pipeline using Kinesis Athena DynamoDB Lambda",
+   "published": null,
+   "duration": 2903,
+   "views": 2400,
+   "short": false
+  },
+  {
+   "id": "I7V9WncQBoA",
+   "title": "AWS Project to Get you Hired: Build a CI/CD Pipeline for the 2048 Game using CodePipeline, ECS & ECR",
+   "published": null,
+   "duration": 2780,
+   "views": 1600,
+   "short": false
+  },
+  {
+   "id": "HhJ3RV0V7rQ",
+   "title": "I finally built my dream studio for work and content creation | Studio Tour 2026",
+   "published": null,
+   "duration": 644,
+   "views": 166,
+   "short": false
+  },
+  {
+   "id": "9Z9dMseBbW4",
+   "title": "What is AWS DevOps Agent? AWS DevOps Agent Explained with Architecture & Real Root-Cause | Demo",
+   "published": null,
+   "duration": 2037,
+   "views": 8200,
+   "short": false
+  },
+  {
+   "id": "m_24OiLD8_o",
+   "title": "AWS Project to Get you Hired: Serverless Cloud Dictionary App using Amplify, Lambda, API Gateway, DB",
+   "published": null,
+   "duration": 2201,
+   "views": 942,
+   "short": false
+  },
+  {
+   "id": "2_cqJ3bwx4Q",
+   "title": "AWS Projects to Get you Hired: Build an Automated Text Processor using Lambda, Textract & DynamoDB",
+   "published": null,
+   "duration": 1823,
+   "views": 1300,
+   "short": false
+  },
+  {
+   "id": "qntqGk3zgXw",
+   "title": "AWS Projects to Get you Hired: End-to-End Data Pipeline on AWS S3 Lambda, Glue & QuickSight Hands-on",
+   "published": null,
+   "duration": 2486,
+   "views": 11000,
+   "short": false
+  },
+  {
+   "id": "_3g9SKlRIWk",
+   "title": "AWS Projects to Get you Hired: Event Announcement App using SNS, Lambda, and API Gateway | Demo",
+   "published": null,
+   "duration": 1550,
+   "views": 3100,
+   "short": false
+  },
+  {
+   "id": "LAb6yYE87Fk",
+   "title": "AWS Projects to Get you Hired: Build a Real-Time Text to Audio Converter Pipeline using Amazon Polly",
+   "published": null,
+   "duration": 789,
+   "views": 6200,
+   "short": false
+  },
+  {
+   "id": "aiBdVVGv74U",
+   "title": "AWS Projects to Get you Hired: Build a Real-Time Language Translation Bot using Amazon Lex",
+   "published": null,
+   "duration": 1013,
+   "views": 1200,
+   "short": false
+  },
+  {
+   "id": "jIjTx5RMat4",
+   "title": "AWS Projects to Get you Hired: Built an Image Labels Generator using Amazon Rekognition",
+   "published": null,
+   "duration": 615,
+   "views": 1000,
+   "short": false
+  },
+  {
+   "id": "AWW6ig4b9XU",
+   "title": "AWS Projects to Get you Hired: Built Career Path Navigator App using AWS PartyRock",
+   "published": null,
+   "duration": 505,
+   "views": 993,
+   "short": false
+  },
+  {
+   "id": "Nhv1o8qLknE",
+   "title": "AWS Projects to Get you Hired: Build Your own ChatGPT using Amazon Bedrock Knowledge Base 2",
+   "published": null,
+   "duration": 703,
+   "views": 739,
+   "short": false
+  },
+  {
+   "id": "tl7GKXeqNTs",
+   "title": "AWS Projects to Get you Hired: Build Your own ChatGPT using Amazon Bedrock Knowledge Base 1",
+   "published": null,
+   "duration": 979,
+   "views": 1400,
+   "short": false
+  },
+  {
+   "id": "Nj3e2z3H5JY",
+   "title": "A Day in My Life as a Cloud/DevOps Engineer (Workshop Edition) | Workshop at CBIT Hyderabad",
+   "published": null,
+   "duration": 350,
+   "views": 243,
+   "short": false
+  },
+  {
+   "id": "igz7W78QqZY",
+   "title": "$100,000 Kiroween Hackathon! Build a Spooky App with Kiro (Code & Win)",
+   "published": null,
+   "duration": 327,
+   "views": 414,
+   "short": false
+  },
+  {
+   "id": "QYhP0FDGEH4",
+   "title": "I built a Serverless KeyGen App on AWS with SQS, Lambda, API Gateway, S3 & Terraform | Hands-on Demo",
+   "published": null,
+   "duration": 942,
+   "views": 459,
+   "short": false
+  },
+  {
+   "id": "_cCGMBd0bgg",
+   "title": "Databricks Compute Options Explained: All-Purpose, Job, Serverless & SQL Warehouses",
+   "published": null,
+   "duration": 478,
+   "views": 6200,
+   "short": false
+  },
+  {
+   "id": "RjC8LnvZsIc",
+   "title": "Databricks Medallion Architecture Explained in 2 minutes!",
+   "published": null,
+   "duration": 147,
+   "views": 1100,
+   "short": false
+  },
+  {
+   "id": "JZanMXatZ8Y",
+   "title": "Databricks Architecture Explained in 5 Minutes! (Visual Guide for Beginners)",
+   "published": null,
+   "duration": 408,
+   "views": 4200,
+   "short": false
+  },
+  {
+   "id": "g6OHZSdyoAU",
+   "title": "How to Read Kafka Topics/Streams in Databricks (Spark Streaming)? | Hands-on Demo",
+   "published": null,
+   "duration": 401,
+   "views": 4600,
+   "short": false
+  },
+  {
+   "id": "Ssl7luTcCkE",
+   "title": "How to Connect ROS Noetic on AWS EC2 and Your Local Machine Using Python & ROS Bridge | Setup Guide",
+   "published": null,
+   "duration": 624,
+   "views": 129,
+   "short": false
+  },
+  {
+   "id": "Gn9nDyHGxZQ",
+   "title": "How to Deploy a Simple ROS Noetic Application  on AWS EC2 | Cloud-Enabled Robot Stack | Handson Demo",
+   "published": null,
+   "duration": 1203,
+   "views": 210,
+   "short": false
+  },
+  {
+   "id": "HMgQWfqZ_do",
+   "title": "You're Checking the AWS Costs WRONG. Do This Instead | How to Get AWS Cost Reports in Your Terminal",
+   "published": null,
+   "duration": 504,
+   "views": 407,
+   "short": false
+  },
+  {
+   "id": "3pC720Wd-Rk",
+   "title": "I built an AI VPC Flow Log Analyzer with Amazon Bedrock, Analyze VPC Flow Logs with Natural Language",
+   "published": null,
+   "duration": 1127,
+   "views": 1900,
+   "short": false
+  },
+  {
+   "id": "KkjXNZuDoBw",
+   "title": "4 Ways to Transfer Files/Code From Your Local Computer to a Remote Cloud Server/AWS EC2 Instance",
+   "published": null,
+   "duration": 1023,
+   "views": 2600,
+   "short": false
+  },
+  {
+   "id": "kKLzrON-ikY",
+   "title": "Automate AWS MSK Kafka Cluster with Terraform: A Complete Guide | Create AWS MSK Using Terraform",
+   "published": null,
+   "duration": 1150,
+   "views": 1000,
+   "short": false
+  },
+  {
+   "id": "5TD08owyj5Q",
+   "title": "AWS MSK Crash Course | A Beginner's Guide to AWS MSK: From Cluster Setup to Your First Message",
+   "published": null,
+   "duration": 1830,
+   "views": 4000,
+   "short": false
+  },
+  {
+   "id": "FQff33Asw8I",
+   "title": "Never Have Downtime Again! Hands-on Guide to Blue/Green Deployments on AWS using ALB",
+   "published": null,
+   "duration": 1053,
+   "views": 1800,
+   "short": false
+  },
+  {
+   "id": "UNUUtWHH0uk",
+   "title": "How to Convert AWS Clicks (manually created AWS resources) into CDK/CloudFormation? (The EASY Way)",
+   "published": null,
+   "duration": 718,
+   "views": 189,
+   "short": false
+  },
+  {
+   "id": "8KaJxWe5NbI",
+   "title": "Official Microsoft Python + AI Series | 9 Live Classes You Can Join For FREE!",
+   "published": null,
+   "duration": 232,
+   "views": 270,
+   "short": false
+  },
+  {
+   "id": "E9jE9bmNsJ0",
+   "title": "What is Change Data Capture (CDC)? Explained Simply!",
+   "published": null,
+   "duration": 495,
+   "views": 3600,
+   "short": false
+  },
+  {
+   "id": "kMVj3wAfWpM",
+   "title": "Top 5 Data Engineer Certifications | Skills, Learning & Career Growth | What is Included?",
+   "published": null,
+   "duration": 387,
+   "views": 451,
+   "short": false
+  },
+  {
+   "id": "6-ubnSlvD0M",
+   "title": "How to Create a Job Cluster in Databricks? When to use a Job Cluster? Databricks Hands-on Demo",
+   "published": null,
+   "duration": 634,
+   "views": 6100,
+   "short": false
+  },
+  {
+   "id": "CKYsJUjGla0",
+   "title": "How to Create an All-Purpose (Ad-Hoc) Cluster in Databricks? Hands-on Guide | Databricks Tutorial",
+   "published": null,
+   "duration": 1022,
+   "views": 1600,
+   "short": false
+  },
+  {
+   "id": "yd-EeScJ2OI",
+   "title": "50% discount on any Databricks Certification & 20% off on annual Academy Labs Subscription!",
+   "published": null,
+   "duration": 239,
+   "views": 617,
+   "short": false
+  },
+  {
+   "id": "8JIO_BzdhLg",
+   "title": "50% Discount on AWS AI and ML Get Certifications | AWS Certified AI Practitioner | Why Certify?",
+   "published": null,
+   "duration": 535,
+   "views": 656,
+   "short": false
+  },
+  {
+   "id": "jvbchf51CIs",
+   "title": "LAST CHANCE to Join AWS Cloud Club Captain! Everything You Need to Know about AWS Cloud Club Captain",
+   "published": null,
+   "duration": 616,
+   "views": 1100,
+   "short": false
+  },
+  {
+   "id": "kJe1NHbeXi8",
+   "title": "Getting Started with Apache Spark on Databricks: Key Features & DBFS Explained",
+   "published": null,
+   "duration": 318,
+   "views": 329,
+   "short": false
+  },
+  {
+   "id": "YSG36EG-xs0",
+   "title": "Google Is Gifting $10,000 for Students! Don't Miss to Apply for Generation Google Scholarship",
+   "published": null,
+   "duration": 416,
+   "views": 291,
+   "short": false
+  },
+  {
+   "id": "eeVr_tOJ2DI",
+   "title": "Overview of Databricks Workspace Interface: Easy Guide to Get You Started!",
+   "published": null,
+   "duration": 683,
+   "views": 2400,
+   "short": false
+  },
+  {
+   "id": "jrEL7oqQfl8",
+   "title": "How to Create a Databricks Workspace with Unity Catalog in Under 10 Minutes? | Step by Step Demo",
+   "published": null,
+   "duration": 555,
+   "views": 1200,
+   "short": false
+  },
+  {
+   "id": "rZhWG8HMLkU",
+   "title": "Introduction to Databricks Lakehouse: Unifying Data Lakes and Data Warehouses | Lakehouse Paradigm",
+   "published": null,
+   "duration": 657,
+   "views": 921,
+   "short": false
+  },
+  {
+   "id": "E9c5H5Dh-fI",
+   "title": "How to Generate AWS Architecture Diagrams with Amazon Q CLI & MCP Server using Natural Language Demo",
+   "published": null,
+   "duration": 654,
+   "views": 5300,
+   "short": false
+  },
+  {
+   "id": "Wekjb50hyjU",
+   "title": "Manage, Deploy & Troubleshoot AWS EKS K8s Using AWS EKS MCP Server | Will Automation Take Our Jobs?",
+   "published": null,
+   "duration": 1565,
+   "views": 1700,
+   "short": false
+  },
+  {
+   "id": "OiITWjgmUSk",
+   "title": "Lead the AI Revolution: Become a Google Gemini AI Student Ambassador 2025! [31st July 2025 Deadline]",
+   "published": null,
+   "duration": 329,
+   "views": 1200,
+   "short": false
+  },
+  {
+   "id": "n9henGNxU88",
+   "title": "Kafka Producer Deep Dive: Message Keys, Anatomy & Serialization Explained | Tech With Yeshwanth",
+   "published": null,
+   "duration": 852,
+   "views": 265,
+   "short": false
+  },
+  {
+   "id": "EyDvdbvbBgk",
+   "title": "Kafka Topics, Partitions & Offsets Explained with Real-World Analogy under 10 Minutes",
+   "published": null,
+   "duration": 632,
+   "views": 530,
+   "short": false
+  },
+  {
+   "id": "zjoauP3MhM8",
+   "title": "Why do Language Models Use \"Tokens\"? Why Not Words or Characters?",
+   "published": null,
+   "duration": 383,
+   "views": 324,
+   "short": false
+  },
+  {
+   "id": "ZNNWvdkwM_M",
+   "title": "Apache Kafka Architecture Explained with Visuals & Real-World Example | Beginners to Advanced",
+   "published": null,
+   "duration": 736,
+   "views": 806,
+   "short": false
+  },
+  {
+   "id": "W6cagAT3FxA",
+   "title": "System Design on AWS with O’Reilly Author @MsDeep Singh | Real-World Cloud Architecture Tips",
+   "published": null,
+   "duration": 3044,
+   "views": 1600,
+   "short": false
+  },
+  {
+   "id": "o4NYjMPZPZE",
+   "title": "Six Pillars of AWS Well Architected Framework Explained",
+   "published": null,
+   "duration": 908,
+   "views": 645,
+   "short": false
+  },
+  {
+   "id": "O4XW_kt_sJA",
+   "title": "Get Snowflake Certified for FREE ❄️ | Limited-Time Snowflake Ascent Training + $100 Exam Voucher!",
+   "published": null,
+   "duration": 202,
+   "views": 4000,
+   "short": false
+  },
+  {
+   "id": "746VoA_eZRY",
+   "title": "Estimate AWS Costs Like a Pro with Amazon Q CLI + Cost Analysis MCP | AWS Cost Estimation Made Easy",
+   "published": null,
+   "duration": 872,
+   "views": 973,
+   "short": false
+  },
+  {
+   "id": "DNVsxdlcLJU",
+   "title": "this community program changed my life...",
+   "published": null,
+   "duration": 288,
+   "views": 97,
+   "short": false
+  },
+  {
+   "id": "4uM_HVb762E",
+   "title": "Docker Offload Explained: Build & Run Containers on GPU in the Cloud with Local Simplicity!",
+   "published": null,
+   "duration": 279,
+   "views": 622,
+   "short": false
+  },
+  {
+   "id": "BW0aeICEIYw",
+   "title": "Apache Kafka Explained | Ultimate Kafka Guide for Beginners (Walkthrough)",
+   "published": null,
+   "duration": 771,
+   "views": 470,
+   "short": false
+  },
+  {
+   "id": "BBl3NalLMmc",
+   "title": "Get Oracle Certified for FREE | UpSkill in AI, OCI, Multicloud for Free | Race to Certification 2025",
+   "published": null,
+   "duration": 379,
+   "views": 10000,
+   "short": false
+  },
+  {
+   "id": "vtpsxxXbIaI",
+   "title": "Get FREE $1 Million AWS Credits | Build the Future with AWS Generative AI Accelerator | AWS Startups",
+   "published": null,
+   "duration": 570,
+   "views": 1600,
+   "short": false
+  },
+  {
+   "id": "y5VR8bopl1U",
+   "title": "Unboxing My Dream: iPad Pro M4 (256GB WiFi) | Student Discount Win 💫",
+   "published": null,
+   "duration": 250,
+   "views": 597,
+   "short": false
+  },
+  {
+   "id": "LTCzEJHjPKQ",
+   "title": "Attend AWS re:Invent 2025 for free...",
+   "published": null,
+   "duration": 291,
+   "views": 814,
+   "short": false
+  },
+  {
+   "id": "Z8e25X68sJc",
+   "title": "Did not write a single line of code to build this game  | Built a Game in Minutes Using Amazon Q CLI",
+   "published": null,
+   "duration": 715,
+   "views": 285,
+   "short": false
+  },
+  {
+   "id": "L8bt_50XZMo",
+   "title": "Answering Your Cloud & DevOps Questions 💬 | AWS Jobs, Freelancing, Resources & Getting Started!",
+   "published": null,
+   "duration": 909,
+   "views": 272,
+   "short": false
+  },
+  {
+   "id": "2jO_ErBMWuY",
+   "title": "AWS Solutions Architect Study Guide, Exam Tips (2025) | Pass Your Solutions Architect Associate Exam",
+   "published": null,
+   "duration": 933,
+   "views": 459,
+   "short": false
+  },
+  {
+   "id": "LgIeSOBt1hw",
+   "title": "How Amazon-Scale E-Commerce Websites Are Built Using AWS | RESTful Architecture Deep Dive",
+   "published": null,
+   "duration": 507,
+   "views": 475,
+   "short": false
+  },
+  {
+   "id": "XxidiZwmDgo",
+   "title": "DevOps Trends to Watch in 2025 | The Cloud Hour Episode 02",
+   "published": null,
+   "duration": 1068,
+   "views": 170,
+   "short": false
+  },
+  {
+   "id": "4FLblKrr0xo",
+   "title": "2025 Predictions for DevOps and Application Development | The Cloud Hour Episode 01",
+   "published": null,
+   "duration": 388,
+   "views": 102,
+   "short": false
+  },
+  {
+   "id": "MLOITz-WYbI",
+   "title": "Understanding RESTful Web Architecture with E-Commerce Site as an Example | Architecting Solution",
+   "published": null,
+   "duration": 618,
+   "views": 136,
+   "short": false
+  },
+  {
+   "id": "0-YtI1mu8o0",
+   "title": "Understanding Service-Oriented Architecture | SOA Made Simple | Architecting Solutions",
+   "published": null,
+   "duration": 317,
+   "views": 485,
+   "short": false
+  },
+  {
+   "id": "nMRCiHb2T70",
+   "title": "Building a Multi-tenant SaaS (Software as a Service ) Architecture | Architecting Solutions",
+   "published": null,
+   "duration": 347,
+   "views": 4800,
+   "short": false
+  },
+  {
+   "id": "0Ozbe6XLQpk",
+   "title": "Building an n-tier layered architecture in AWS | Things to consider as a Solutions Architect",
+   "published": null,
+   "duration": 744,
+   "views": 762,
+   "short": false
+  },
+  {
+   "id": "rjtnUItvZEY",
+   "title": "Master Prompt Engineering: Build & Manage AI Apps Like a Pro 🚀",
+   "published": null,
+   "duration": 836,
+   "views": 480,
+   "short": false
+  },
+  {
+   "id": "fak6FltY1Vo",
+   "title": "Attend AWS re:Inforce 2025 for Free! | Join the AWS All Builders Welcome Initiative",
+   "published": null,
+   "duration": 274,
+   "views": 375,
+   "short": false
+  },
+  {
+   "id": "GJWhEQVy4sM",
+   "title": "What is Azure AI Foundry? | How to Create an Azure AI Foundry AI Hub? | Hands-on Demo",
+   "published": null,
+   "duration": 589,
+   "views": 12000,
+   "short": false
+  },
+  {
+   "id": "VlIksooL0DE",
+   "title": "How to Host Your Website on Verpex: Step-by-Step Guide!",
+   "published": null,
+   "duration": 771,
+   "views": 772,
+   "short": false
+  },
+  {
+   "id": "I1AtPhLW2os",
+   "title": "AWS Project: Building a Random Cloud Definition App on AWS | Step by Step Tutorial",
+   "published": null,
+   "duration": 1013,
+   "views": 905,
+   "short": false
+  },
+  {
+   "id": "jVztSyfoeF4",
+   "title": "AWS Projects to Get you Hired: Build an Event-Driven Image Pixelation Pipeline with Lambda & S3",
+   "published": null,
+   "duration": 1076,
+   "views": 1700,
+   "short": false
+  },
+  {
+   "id": "aeOSgXJQ8KE",
+   "title": "Create and Mount EFS to EC2 | Build a Scalable Media Storage Solution with AWS EFS and EC2 Instances",
+   "published": null,
+   "duration": 1482,
+   "views": 675,
+   "short": false
+  },
+  {
+   "id": "Zx7L2FlLnPc",
+   "title": "Automate EC2 Tag Monitoring with AWS EventBridge and Lambda | Real-Time Notifications Setup | Demo",
+   "published": null,
+   "duration": 1371,
+   "views": 1300,
+   "short": false
+  },
+  {
+   "id": "e3M7frZeUgs",
+   "title": "DevSecOps Project: Deploying Background Remover Python Flask App on AWS EKS Using DevSecOps Approach",
+   "published": null,
+   "duration": 5393,
+   "views": 3500,
+   "short": false
+  },
+  {
+   "id": "uaiuUGg5gLE",
+   "title": "DevSecOps Project: Deploying Amazon Prime Video Clone on AWS EKS Using DevSecOps Approach | Hands-on",
+   "published": null,
+   "duration": 6568,
+   "views": 10000,
+   "short": false
+  },
+  {
+   "id": "N65bo4iiVds",
+   "title": "DevSecOps Project: Deploying Starbucks Clone on AWS  | Complete Hands-on Demo",
+   "published": null,
+   "duration": 3473,
+   "views": 6500,
+   "short": false
+  },
+  {
+   "id": "ekNhTHtIT1k",
+   "title": "Deploy AWS Lambda Function using GitHub Actions CI CD | Lambda Deployment using CICD GitHub Actions",
+   "published": null,
+   "duration": 753,
+   "views": 17000,
+   "short": false
+  },
+  {
+   "id": "deq_VfLA8Qg",
+   "title": "Exploring the Role of a Microsoft Cloud Solutions Architect | How to become a Solutions Architect?",
+   "published": null,
+   "duration": 2774,
+   "views": 2300,
+   "short": false
+  },
+  {
+   "id": "5WsOvLr-0Yk",
+   "title": "How to Package Python Libraries for Lambda Functions | Create Lambda Function from ZIP file #AWS",
+   "published": null,
+   "duration": 588,
+   "views": 12000,
+   "short": false
+  },
+  {
+   "id": "6x4DOFfNuww",
+   "title": "Expose  ReplicaSet using NodePort Service & Test in AWS EKS | AWS EKS Masterclass with Demos",
+   "published": null,
+   "duration": 444,
+   "views": 418,
+   "short": false
+  },
+  {
+   "id": "l3esAfqTltU",
+   "title": "What are ReplicaSets and How to Create ReplicaSets in AWS EKS? | AWS EKS Masterclass with Demos",
+   "published": null,
+   "duration": 905,
+   "views": 251,
+   "short": false
+  },
+  {
+   "id": "eslXQsGkWkY",
+   "title": "Checking the Logs of an EKS Pods | Connect to a Container in an EKS Pod | AWS EKS Masterclass",
+   "published": null,
+   "duration": 306,
+   "views": 1300,
+   "short": false
+  },
+  {
+   "id": "fyS5oGH7mEA",
+   "title": "Kubernetes NodePort Service Introduction and Demo | AWS EKS Masterclass with Demos",
+   "published": null,
+   "duration": 742,
+   "views": 924,
+   "short": false
+  },
+  {
+   "id": "mpYGydGuH3E",
+   "title": "Installing Kubernetes on AWS EC2 Instance using Kubeadm under 10 mins | EKS Masterclass with Demos",
+   "published": null,
+   "duration": 657,
+   "views": 7600,
+   "short": false
+  },
+  {
+   "id": "j3E-EAgDHOM",
+   "title": "Creating Pods in AWS Elastic Kubernetes Service (EKS) | Mastering AWS EKS: Real-World Demos",
+   "published": null,
+   "duration": 1860,
+   "views": 928,
+   "short": false
+  },
+  {
+   "id": "0tDwBw3VI7s",
+   "title": "Introduction to Elastic Kubernetes Service (EKS) Core Objects | Mastering AWS EKS: Real-World Demos",
+   "published": null,
+   "duration": 794,
+   "views": 1100,
+   "short": false
+  },
+  {
+   "id": "32MfGk16EGw",
+   "title": "Create an AWS Elastic Kubernetes Service (EKS) Cluster using CLI | Step-by-Step Guide",
+   "published": null,
+   "duration": 1183,
+   "views": 4300,
+   "short": false
+  },
+  {
+   "id": "vqA5dlEHYbQ",
+   "title": "Installing AWS CLI, kubectl and eksctl on Windows | Step-by-Step Guide",
+   "published": null,
+   "duration": 555,
+   "views": 5300,
+   "short": false
+  },
+  {
+   "id": "13NrO18eTiY",
+   "title": "AWS Demo: Import Existing AWS Resources into CloudFormation Using IaC Generator | Step-by-Step Guide",
+   "published": null,
+   "duration": 642,
+   "views": 1500,
+   "short": false
+  },
+  {
+   "id": "IEa4zz6sYnM",
+   "title": "AWS Elastic Kubernetes Architecture (EKS Architecture) Explained in 5 Minutes | Mastering AWS EKS",
+   "published": null,
+   "duration": 302,
+   "views": 2000,
+   "short": false
+  },
+  {
+   "id": "u558A6zCHqk",
+   "title": "Kubernetes Architecture Explained in 15 mins | AWS EKS Masterclass",
+   "published": null,
+   "duration": 864,
+   "views": 1000,
+   "short": false
+  },
+  {
+   "id": "fdNSIXvy4gs",
+   "title": "AWS Project: Deploy NextJS App on EC2 using Coolify | Step-by-Step Guide",
+   "published": null,
+   "duration": 1053,
+   "views": 2900,
+   "short": false
+  },
+  {
+   "id": "DtKOVUxb8nw",
+   "title": "2 Years of Innovation! Unboxing AWS Community Builders 2nd Year Swag #awscommunity #aws",
+   "published": null,
+   "duration": 218,
+   "views": 395,
+   "short": false
+  },
+  {
+   "id": "TkEubrv8gA0",
+   "title": "AWS Project: Build a Serverless File Sharing Platform with AWS (Step-by-Step Tutorial) #AWSCommunity",
+   "published": null,
+   "duration": 1569,
+   "views": 6900,
+   "short": false
+  },
+  {
+   "id": "mVMfsOYlCuA",
+   "title": "AWS Project: Step-by-Step Guide to Build Your First CURD API in AWS #AWSCommunity #Serverless #Cloud",
+   "published": null,
+   "duration": 1287,
+   "views": 1200,
+   "short": false
+  },
+  {
+   "id": "OBs4wV0iY38",
+   "title": "Attend AWS re:Invent 2024 for FREE! #AWS #reInvent2024 #AWSCommunity #conference",
+   "published": null,
+   "duration": 173,
+   "views": 735,
+   "short": false
+  },
+  {
+   "id": "3kaI4Thx2pU",
+   "title": "Create EKS Cluster using “eksctl” | Step-by-Step Guide",
+   "published": null,
+   "duration": 1183,
+   "views": 2000,
+   "short": false
+  },
+  {
+   "id": "SHDH6RflHBE",
+   "title": "AWS Project: Convert Audio to Text using Amazon Polly | Guide to Building Book/Blog Audio Converter",
+   "published": null,
+   "duration": 1115,
+   "views": 2800,
+   "short": false
+  },
+  {
+   "id": "nSfEEizbXfI",
+   "title": "AWS Project: Building an Event-Driven Architecture on AWS: S3, Lambda, and SNS Integration | EDA AWS",
+   "published": null,
+   "duration": 1244,
+   "views": 2300,
+   "short": false
+  },
+  {
+   "id": "lBdwKg_8pNM",
+   "title": "How I Cleared AWS Certified Solutions Architect – Associate SAA-C03 in 2 Weeks | Certified in AWS",
+   "published": null,
+   "duration": 624,
+   "views": 1600,
+   "short": false
+  },
+  {
+   "id": "KobHXqqkUAE",
+   "title": "FREE Google Cloud Certification Vouchers | Get Google Cloud Certified for Free in 2024  #GCP #Google",
+   "published": null,
+   "duration": 318,
+   "views": 7400,
+   "short": false
+  },
+  {
+   "id": "Q58h92qmLAQ",
+   "title": "Create an RDS Instance Along with Read Replica Using Terraform | RDS Database Using Terraform #aws",
+   "published": null,
+   "duration": 2036,
+   "views": 4000,
+   "short": false
+  },
+  {
+   "id": "p2e0qKdNoAY",
+   "title": "Create AWS VPC Landing Zone using Terraform | How to Create an AWS VPC Landing Zone? AWS VPC #aws",
+   "published": null,
+   "duration": 1660,
+   "views": 3700,
+   "short": false
+  },
+  {
+   "id": "A-wkfC459lo",
+   "title": "Simplified Kubernetes Architecture | K8s Architecture Explained with an Example | K8s Architecture",
+   "published": null,
+   "duration": 584,
+   "views": 341,
+   "short": false
+  },
+  {
+   "id": "byxQr7RaaoM",
+   "title": "Deploy EKS Cluster Using Terraform & Jenkins |Automated EKS Cluster Creation Using Jenkins Terraform",
+   "published": null,
+   "duration": 2655,
+   "views": 7200,
+   "short": false
+  },
+  {
+   "id": "NTT-v9T7EX0",
+   "title": "Deploy AWS EKS Cluster Using Terraform | Terraform EKS Cluster Creation | Create EKS Using Terraform",
+   "published": null,
+   "duration": 1193,
+   "views": 12000,
+   "short": false
+  },
+  {
+   "id": "lg6OqpcdOxQ",
+   "title": "Imperative and Declarative methods in Kubernetes (K8s) | #learndevops #kubernetes #community #cloud",
+   "published": null,
+   "duration": 124,
+   "views": 350,
+   "short": false
+  },
+  {
+   "id": "KU8wYaY_Dx0",
+   "title": "Masterclass on Kubernetes Pods | Everything that you need to know about Pods in Kubernetes Hands-on",
+   "published": null,
+   "duration": 1860,
+   "views": 1400,
+   "short": false
+  },
+  {
+   "id": "oI98mvwwbXk",
+   "title": "MLH Fellowship - Your Gateway to Site Reliability Engineering and DevOps Job #TechInternship #MLH",
+   "published": null,
+   "duration": 544,
+   "views": 368,
+   "short": false
+  },
+  {
+   "id": "A_RVacIhgtM",
+   "title": "Try this AWS Project in 2024! AWS Project Ideas | AWS Real-World Projects | #AWS #community #devops",
+   "published": null,
+   "duration": 246,
+   "views": 1100,
+   "short": false
+  },
+  {
+   "id": "PB1DUga3R-s",
+   "title": "IoT + Cloud = Future | Bolt IoT  WiFi Module Review and Unboxing | @Bolt IoT Training on IoT and ML",
+   "published": null,
+   "duration": 334,
+   "views": 744,
+   "short": false
+  },
+  {
+   "id": "cisqTD4SF5g",
+   "title": "HashiCorp Ambassadors Program 2024 is now LIVE! | #Terraform #HashiCorp #Community #DevOps #AMC",
+   "published": null,
+   "duration": 181,
+   "views": 307,
+   "short": false
+  },
+  {
+   "id": "7Cx8-oZ3DGE",
+   "title": "AWS Community Builder Program Application Changes Starting Jan 2024 | AWS Community Builder Updates",
+   "published": null,
+   "duration": 193,
+   "views": 408,
+   "short": false
+  },
+  {
+   "id": "JXwKb2TbKCE",
+   "title": "Recertify Your AWS Cloud Certification for FREE by May 31st 2024! #FreeAWSCerifiation #Certification",
+   "published": null,
+   "duration": 196,
+   "views": 1700,
+   "short": false
+  },
+  {
+   "id": "hhUizORY3uA",
+   "title": "Serverless Days Bengaluru 2023 | @SAP Labs India #aws #azure #gcp",
+   "published": null,
+   "duration": 114,
+   "views": 431,
+   "short": false
+  },
+  {
+   "id": "gwV16QkTklU",
+   "title": "Cloud Architecture Best Practices Part 1 | Scalability and Disposable Resources #AWS #Azure #GCP",
+   "published": null,
+   "duration": 242,
+   "views": 622,
+   "short": false
+  },
+  {
+   "id": "o-Yp_8bldnA",
+   "title": "Attend AWS re:Invent 2023 in Las Vegas for Free 🤯 | All Builders Welcome Grant #AWS #AWSre:Invent",
+   "published": null,
+   "duration": 203,
+   "views": 914,
+   "short": false
+  },
+  {
+   "id": "U_Xa73baDuI",
+   "title": "AWS Exam Common Scenario based Questions with Solutions | AWS Scenario Based Questions #AWS",
+   "published": null,
+   "duration": 982,
+   "views": 961,
+   "short": false
+  },
+  {
+   "id": "kRh38YC8e08",
+   "title": "Thank you AWS! AWS Swag Unboxing | #AWSCommunityBuilderProgram #AWS",
+   "published": null,
+   "duration": 172,
+   "views": 2000,
+   "short": false
+  },
+  {
+   "id": "SYQakAS8RKk",
+   "title": "How to Redeem AWS Credits? #AWS #AWSCertified #AWSCredits #Cloud #DevOps",
+   "published": null,
+   "duration": 158,
+   "views": 3200,
+   "short": false
+  },
+  {
+   "id": "uBvTRdtWDJ8",
+   "title": "AWS Exam Common Scenario based Questions with Solutions [Part-4] | AWS Scenario Based Questions #AWS",
+   "published": null,
+   "duration": 359,
+   "views": 657,
+   "short": false
+  },
+  {
+   "id": "p8RCpHBnLNk",
+   "title": "AWS Exam Common Scenario based Questions with Solutions [Part-3] | AWS Scenario Based Questions #AWS",
+   "published": null,
+   "duration": 406,
+   "views": 1400,
+   "short": false
+  },
+  {
+   "id": "fRPs7gpa6PE",
+   "title": "AWS Exam Common Scenario based Questions with Solutions [Part-2] | AWS Scenario Based Questions #AWS",
+   "published": null,
+   "duration": 401,
+   "views": 556,
+   "short": false
+  },
+  {
+   "id": "2-CzTkVmm1s",
+   "title": "AWS Exam Common Scenario based Questions with Solutions [Part-1] | AWS Scenario Based Questions #AWS",
+   "published": null,
+   "duration": 353,
+   "views": 1000,
+   "short": false
+  },
+  {
+   "id": "_30ZO1S3CP4",
+   "title": "Embrace the Future of DevOps | DevOps Trends in 2023 | #DevOps #Trend #DevOpsFuture #DevSecOps",
+   "published": null,
+   "duration": 239,
+   "views": 604,
+   "short": false
+  },
+  {
+   "id": "2MrK5u2Jsv4",
+   "title": "Join the Google Cloud Arcade Facilitator Program! #GoogleCloud #Cloud #GoogleCloudFacilitatorProgram",
+   "published": null,
+   "duration": 318,
+   "views": 405,
+   "short": false
+  },
+  {
+   "id": "WoUlf4G1TDs",
+   "title": "Tesla Stock Price Prediction Using AWS SageMaker Canvas | Stock Price Prediction With No Code #AWS",
+   "published": null,
+   "duration": 1054,
+   "views": 3100,
+   "short": false
+  },
+  {
+   "id": "_dIxntxiQPs",
+   "title": "AWS Core Services Which You Should Know for Solutions Architect Associate SAA-C03 Exam #AWSCertified",
+   "published": null,
+   "duration": 363,
+   "views": 557,
+   "short": false
+  },
+  {
+   "id": "j9h5dEyXiAk",
+   "title": "AWS Community Builder Program is Now Accepting Applications | Apply Now [Deadline: July 13th, 2023]",
+   "published": null,
+   "duration": 152,
+   "views": 220,
+   "short": false
+  },
+  {
+   "id": "mEbzdogjVCY",
+   "title": "Try these 4 AWS Projects Now! #AWSProjects #AWSCommunity #LearnCloud #cloudcomputing #DevOps",
+   "published": null,
+   "duration": 203,
+   "views": 1100,
+   "short": false
+  },
+  {
+   "id": "YBjrZZMXNe8",
+   "title": "Hosting Your Resume on AWS EC2 with a CI/CD Setup Using GitHub Actions | AWS Project Demo",
+   "published": null,
+   "duration": 1187,
+   "views": 29000,
+   "short": false
+  },
+  {
+   "id": "25SaEqvTRdw",
+   "title": "10 Essential Tips to Become a Cloud Engineer",
+   "published": null,
+   "duration": 310,
+   "views": 488,
+   "short": false
+  },
+  {
+   "id": "wXiWZq1hhdY",
+   "title": "Why Cloud/DevOps Engineer Should Learn Linux? #Cloud #DevOps #Community #LearnCloud #AWS #Azure #GCP",
+   "published": null,
+   "duration": 183,
+   "views": 252,
+   "short": false
+  },
+  {
+   "id": "mGMwclYfb5s",
+   "title": "Should you buy MacBook for Cloud/DevOps? | Honest Review after using MacBook for a month",
+   "published": null,
+   "duration": 195,
+   "views": 10000,
+   "short": false
+  },
+  {
+   "id": "KGX_4JH66Vo",
+   "title": "Watch this before becoming Cloud Architect | Cloud Solutions Architect Prerequisite | CloudArchitect",
+   "published": null,
+   "duration": 202,
+   "views": 218,
+   "short": false
+  },
+  {
+   "id": "mK7BZBiGls4",
+   "title": "Watch this before Learning Kubernetes | Kubernetes Prerequisite | How to Learn Kubernetes? #Cloud",
+   "published": null,
+   "duration": 184,
+   "views": 537,
+   "short": false
+  },
+  {
+   "id": "x7KUCunTKhU",
+   "title": "Every Cloud/DevOps Aspirant Should be Part of These Community Programs! Check and Apply Right Now",
+   "published": null,
+   "duration": 755,
+   "views": 273,
+   "short": false
+  },
+  {
+   "id": "lFcr2a5NH0M",
+   "title": "Linux Commands for Cloud/DevOps/SysAdmins | Grabbing System Details of Linux Machine | Demo",
+   "published": null,
+   "duration": 971,
+   "views": 868,
+   "short": false
+  },
+  {
+   "id": "JE7Wul-vTLA",
+   "title": "Get Certified for FREE  on Oracle Cloud Infrastructure | Valid till August 31 2023 #OracleCertified",
+   "published": null,
+   "duration": 176,
+   "views": 2100,
+   "short": false
+  },
+  {
+   "id": "l_dobjApKGU",
+   "title": "#6 Building Serverless Registration WebApp | Test the Project | #AWSProject #CloudProject #AWS",
+   "published": null,
+   "duration": 265,
+   "views": 2600,
+   "short": false
+  },
+  {
+   "id": "__o-9F9NBjg",
+   "title": "#5 Building Serverless Registration WebApp | Create API Gateway | #AWSProject #CloudProject #AWS",
+   "published": null,
+   "duration": 435,
+   "views": 2600,
+   "short": false
+  },
+  {
+   "id": "llFYJLkgBDg",
+   "title": "#4 Building Serverless Registration WebApp | Write Lambda Function | #AWSProject #CloudProject #AWS",
+   "published": null,
+   "duration": 542,
+   "views": 2500,
+   "short": false
+  },
+  {
+   "id": "JGNl3SmU5i0",
+   "title": "#3 Building Serverless Registration WebApp | Create Lambda Function | #AWSProject #CloudProject #AWS",
+   "published": null,
+   "duration": 174,
+   "views": 2300,
+   "short": false
+  },
+  {
+   "id": "EMYH5zAPSpQ",
+   "title": "#2 Building Serverless Registration WebApp | Create IAM Role for Lambda | #AWSProject #CloudProject",
+   "published": null,
+   "duration": 186,
+   "views": 2500,
+   "short": false
+  },
+  {
+   "id": "JFjEhcK9vow",
+   "title": "#1 Building Serverless Registration WebApp | Create DynamoDB Table | #AWSProject #CloudProject #AWS",
+   "published": null,
+   "duration": 192,
+   "views": 3500,
+   "short": false
+  },
+  {
+   "id": "euqd85xetOA",
+   "title": "100% FREE Microsoft Azure Exam Voucher 2023 | 100% Free Exam #MicrosoftAzure #Azure #Cloud #Skills",
+   "published": null,
+   "duration": 442,
+   "views": 324,
+   "short": false
+  },
+  {
+   "id": "kj8TaMmU6qU",
+   "title": "AWS Project: Building Serverless Registration WebApp #AWSProject #AWS #AWSCommunity #CloudProject",
+   "published": null,
+   "duration": 102,
+   "views": 4900,
+   "short": false
+  },
+  {
+   "id": "PfZa8R1ROjA",
+   "title": "My Experience as a Jury Member at SYMBIOT, A National Level Hackathon at @VVCEOfficial Mysore",
+   "published": null,
+   "duration": 85,
+   "views": 249,
+   "short": false
+  },
+  {
+   "id": "hL0HiIctbgs",
+   "title": "Host Resume on Blob Storage & Integrate CICD Using GitHub Actions | Static Website on Blob Storage",
+   "published": null,
+   "duration": 1625,
+   "views": 1400,
+   "short": false
+  },
+  {
+   "id": "OphBekkv7Fo",
+   "title": "Monitor Disk & Memory Utilisation of AWS EC2 Using CloudWatch Agent | AWS Demo #LearnAWS #community",
+   "published": null,
+   "duration": 1517,
+   "views": 24000,
+   "short": false
+  },
+  {
+   "id": "PVgcjVXkMVw",
+   "title": "Host Personal Site on Azure Virtual Machine | Complete Hands-on Demo | Web App on Azure VM",
+   "published": null,
+   "duration": 1407,
+   "views": 1100,
+   "short": false
+  },
+  {
+   "id": "euZUQDrm9VA",
+   "title": "Step6 Serverless Web Application on AWS | Complete Hands-on Project on AWS | Testing Final Website",
+   "published": null,
+   "duration": 329,
+   "views": 11000,
+   "short": false
+  },
+  {
+   "id": "c2oxYRwcm6k",
+   "title": "Watch this before Learning DevOps | DevOps Prerequisite | How to get into DevOps? #AWS #Community",
+   "published": null,
+   "duration": 157,
+   "views": 296,
+   "short": false
+  },
+  {
+   "id": "D7_B6Ag5iKU",
+   "title": "Step5 Serverless Web Application on AWS | Setup AWS Lambda | Complete Hands-on Project on AWS Demo",
+   "published": null,
+   "duration": 643,
+   "views": 8500,
+   "short": false
+  },
+  {
+   "id": "Aqi9ICxyerw",
+   "title": "KodeKloud is Offering All Premium Courses and Labs for FREE [100%] Enrol Now! | #AWS #Cloud #DevOps",
+   "published": null,
+   "duration": 129,
+   "views": 238,
+   "short": false
+  },
+  {
+   "id": "ZBM43pHnjfs",
+   "title": "AWS Sent Premium Swags 🤩 | Unboxing AWS Super Premium Swags | #AWSCommunityBuilder #AWSCommunity",
+   "published": null,
+   "duration": 180,
+   "views": 688,
+   "short": false
+  },
+  {
+   "id": "3t9SiJVRWWM",
+   "title": "Step4 Serverless Web Application on AWS | Setup AWS DynamoDB | Complete Hands-on Project on AWS",
+   "published": null,
+   "duration": 302,
+   "views": 8900,
+   "short": false
+  },
+  {
+   "id": "DIAyKrECmRw",
+   "title": "50% Discount on Azure Certification Exams | Microsoft Cloud Skills Challenge #Azure #CloudCertified",
+   "published": null,
+   "duration": 378,
+   "views": 316,
+   "short": false
+  },
+  {
+   "id": "KfpJlp7BqfI",
+   "title": "Step3 Serverless Web Application on AWS | Setup AWS Route53 & ACM | Complete Hands-on Project on AWS",
+   "published": null,
+   "duration": 905,
+   "views": 13000,
+   "short": false
+  },
+  {
+   "id": "FIcwB8AVQF4",
+   "title": "Step2 Serverless Web Application on AWS | Setup AWS CloudFront | Complete Hands-on Project on AWS",
+   "published": null,
+   "duration": 597,
+   "views": 15000,
+   "short": false
+  },
+  {
+   "id": "VdB6WTYvRzw",
+   "title": "Get 100% FREE Google Cloud Certification Voucher in 2023 | #GetCertifiedProgram2023 #GoogleCloud",
+   "published": null,
+   "duration": 417,
+   "views": 3200,
+   "short": false
+  },
+  {
+   "id": "xHJsgED5Mqc",
+   "title": "Step1 Serverless Web Application on AWS | Setup AWS S3 | Complete Hands-on Project on AWS | AWS Demo",
+   "published": null,
+   "duration": 419,
+   "views": 25000,
+   "short": false
+  },
+  {
+   "id": "hCKA-2zl5Vw",
+   "title": "Get notified when your On-Demand Capacity Reservations are utilised less than 20% of EC2 Instances 📢",
+   "published": null,
+   "duration": 237,
+   "views": 393,
+   "short": false
+  },
+  {
+   "id": "I6lOS38pdeM",
+   "title": "Give Away Announcement 📢 | 2 X 100 $ AWS Credits Give Away 💸 [Closed] #AWS #learnawsforfree",
+   "published": null,
+   "duration": 313,
+   "views": 150,
+   "short": false
+  },
+  {
+   "id": "qpaDbXcPwnU",
+   "title": "AWS Projects: Serverless Web Application on AWS | Complete Hands-on Project on AWS | AWS Demo",
+   "published": null,
+   "duration": 452,
+   "views": 64000,
+   "short": false
+  },
+  {
+   "id": "vUwojKBgjcs",
+   "title": "Project Announcement: Simple Python & Lambda Project | AWS Use cases | Submit your Project",
+   "published": null,
+   "duration": 30,
+   "views": 1600,
+   "short": false
+  },
+  {
+   "id": "54tfQAx0E1E",
+   "title": "Project Announcement: Serverless Web Application on AWS",
+   "published": null,
+   "duration": 44,
+   "views": 8500,
+   "short": false
+  },
+  {
+   "id": "zaREKlQDluo",
+   "title": "Connect to AWS Linux EC2 using Mac | Fix Permission Denied Error while Connecting to EC2 from MAC",
+   "published": null,
+   "duration": 398,
+   "views": 4000,
+   "short": false
+  },
+  {
+   "id": "5UI3FyToBDk",
+   "title": "50% Discount on AWS Solutions Architect Associate & AWS Cloud Practitioner Exam! #AWSCertified",
+   "published": null,
+   "duration": 342,
+   "views": 1100,
+   "short": false
+  },
+  {
+   "id": "ReX4iouG0pQ",
+   "title": "Top 10 Azure Services You Should Know! #LearnAzure #CloudEngineer",
+   "published": null,
+   "duration": 473,
+   "views": 151,
+   "short": false
+  },
+  {
+   "id": "1d4S3honUGk",
+   "title": "6 Months DevOps Study Plan 📒 | DevOps Roadmap ⬆️ | #AWSCommunityBuilders | Become a DevOps Engineer",
+   "published": null,
+   "duration": 1055,
+   "views": 2000,
+   "short": false
+  },
+  {
+   "id": "ixMZYJorb3k",
+   "title": "I am using Cloud Academy Platform to Upskill ⬆️ | Cloud Academy #AWSCommunityBuilders #AWSCommunity",
+   "published": null,
+   "duration": 607,
+   "views": 2300,
+   "short": false
+  },
+  {
+   "id": "VbYd_dtjMYs",
+   "title": "Why \"🥑\" is associated with Developer Advocate/ Evangelist? | Who is a Developer Advocate/ Evangelist",
+   "published": null,
+   "duration": 685,
+   "views": 57,
+   "short": false
+  },
+  {
+   "id": "FDVnvVHj4xc",
+   "title": "AWS Serverless Project Ideas | AWS Project Ideas | #AWSCommunityBuilders #AWSCommunity #AWS",
+   "published": null,
+   "duration": 562,
+   "views": 847,
+   "short": false
+  },
+  {
+   "id": "D4ttVgM85u0",
+   "title": "What is High Availability (HA) in Cloud | How can it be Achieved? Cloud Interview Questions #AWS",
+   "published": null,
+   "duration": 421,
+   "views": 5100,
+   "short": false
+  },
+  {
+   "id": "64MOzROlyA8",
+   "title": "Use these Resources to Create AWS Architecture Diagrams | Find AWS Icons - Free #AWSCommunity #AWS",
+   "published": null,
+   "duration": 412,
+   "views": 807,
+   "short": false
+  },
+  {
+   "id": "rgIubmk8RiM",
+   "title": "AWS Identity & Access Management (IAM) Password Policy | A Comprehensive Guide #learnawsforfree",
+   "published": null,
+   "duration": 212,
+   "views": 358,
+   "short": false
+  },
+  {
+   "id": "qYM95DvQna4",
+   "title": "AWS Identity & Access Management (IAM) Credential Report | A Comprehensive Guide #learnawsforfree",
+   "published": null,
+   "duration": 261,
+   "views": 1100,
+   "short": false
+  },
+  {
+   "id": "j178inDh6rs",
+   "title": "AWS Identity & Access Management (IAM) Multi-Factor Authentication | A Comprehensive Guide #LearnAWS",
+   "published": null,
+   "duration": 228,
+   "views": 578,
+   "short": false
+  },
+  {
+   "id": "CGY6eKI4iLs",
+   "title": "AWS Identity and Access Management (IAM) Identity Provider | A Comprehensive Guide #learnawsforfree",
+   "published": null,
+   "duration": 319,
+   "views": 3100,
+   "short": false
+  },
+  {
+   "id": "oQCfatUG1gM",
+   "title": "AWS Identity and Access Management (IAM) Policy | A Comprehensive Guide | #learnawsforfree",
+   "published": null,
+   "duration": 521,
+   "views": 316,
+   "short": false
+  },
+  {
+   "id": "KUn8t9Xvn6o",
+   "title": "AWS Identity and Access Management (IAM) Roles | A Comprehensive Guide | #learnawsforfree",
+   "published": null,
+   "duration": 526,
+   "views": 687,
+   "short": false
+  },
+  {
+   "id": "NmFh6FvrvOk",
+   "title": "AWS Identity and Access Management (IAM) Groups | A Comprehensive Guide | #learnawsforfree",
+   "published": null,
+   "duration": 397,
+   "views": 325,
+   "short": false
+  },
+  {
+   "id": "GfRp44Zbt08",
+   "title": "Get 50% Discount on AWS Professional Certifications (Register Now) #AWSCommunity #AWSCertified",
+   "published": null,
+   "duration": 497,
+   "views": 249,
+   "short": false
+  },
+  {
+   "id": "21RzAazF2zc",
+   "title": "AWS Identity and Access Management (IAM) User | A Comprehensive Guide | #LearnAWS",
+   "published": null,
+   "duration": 1004,
+   "views": 2400,
+   "short": false
+  },
+  {
+   "id": "XFwhIkY0zig",
+   "title": "AWS Identity and Access Management (IAM) Root User | A Comprehensive Guide | #LearnAWS",
+   "published": null,
+   "duration": 309,
+   "views": 462,
+   "short": false
+  },
+  {
+   "id": "jgKZXpZQEfw",
+   "title": "Introduction to AWS Identity and Access Management (IAM) | A Comprehensive Guide | #learnawsforfree",
+   "published": null,
+   "duration": 96,
+   "views": 398,
+   "short": false
+  },
+  {
+   "id": "nDuRu7OrwY8",
+   "title": "How I got in to AWS Community Builders Program...🎉 #AWSCommunityBuilders #AWSCommunity #aws",
+   "published": null,
+   "duration": 1133,
+   "views": 318,
+   "short": false
+  },
+  {
+   "id": "GPQmiraP6mU",
+   "title": "AWS Community Builders Program Application Form Walk-through 🚶#AWSCommunityBuilders #AWSCommunity",
+   "published": null,
+   "duration": 684,
+   "views": 317,
+   "short": false
+  },
+  {
+   "id": "RNuFATeLXhk",
+   "title": "Scalability V/S Elasticity | A Comprehensive Guide | Cloud Interview Questions | #AWS #Azure #GCP",
+   "published": null,
+   "duration": 330,
+   "views": 8800,
+   "short": false
+  },
+  {
+   "id": "yWMNh0bRGng",
+   "title": "What is Multi-tenancy in Cloud Computing? | A Comprehensive Guide | Cloud Interview Questions | #AWS",
+   "published": null,
+   "duration": 202,
+   "views": 22000,
+   "short": false
+  },
+  {
+   "id": "2bFCzNmnvTk",
+   "title": "How Content Delivery Network (CDN) Works? | A Comprehensive Guide | Cloud Interview Questions | #AWS",
+   "published": null,
+   "duration": 394,
+   "views": 638,
+   "short": false
+  },
+  {
+   "id": "aecfew7gcoA",
+   "title": "What is an SLA & Why is it Important in Cloud? | A Comprehensive Guide | Cloud Interview Questions",
+   "published": null,
+   "duration": 203,
+   "views": 1700,
+   "short": false
+  },
+  {
+   "id": "Xl5_8esY_uA",
+   "title": "AWS Identity & Access Management (IAM) Masterclass | A Comprehensive Guide | AWS IAM Zero to Hero",
+   "published": null,
+   "duration": 4043,
+   "views": 2000,
+   "short": false
+  },
+  {
+   "id": "tt_DeyDpLkw",
+   "title": "How SSH (Secure Shell) Works? | A Comprehensive Guide | Cloud Interview Questions | #AWS #Azure #GCP",
+   "published": null,
+   "duration": 549,
+   "views": 686,
+   "short": false
+  },
+  {
+   "id": "qauYU3M4mhA",
+   "title": "Configure and Manage Azure VMs | Create Azure VMs Demo | What are Azure VMs | #Azure AZ-104",
+   "published": null,
+   "duration": 923,
+   "views": 102,
+   "short": false
+  },
+  {
+   "id": "436sdCYBIFU",
+   "title": "Degree in Cloud Computing ☁️- Worth it ? 😮 | Cloud Certifications OR Degree? | #AWS #Azure #GCP",
+   "published": null,
+   "duration": 453,
+   "views": 179,
+   "short": false
+  },
+  {
+   "id": "JspAgMxLtgE",
+   "title": "How Single Sign-On (SSO) Works? | A Comprehensive Guide | Cloud Interview Questions #AWS #Azure #GCP",
+   "published": null,
+   "duration": 446,
+   "views": 1600,
+   "short": false
+  },
+  {
+   "id": "hENB6-vAt38",
+   "title": "Mutable V/S Immutable Infrastructure 🤼‍♂️ | Cloud Interview Questions | #AWS #Azure #GCP #AMC",
+   "published": null,
+   "duration": 318,
+   "views": 528,
+   "short": false
+  },
+  {
+   "id": "C62P81EPD2s",
+   "title": "Best Way To Learn Cloud In 2023 | High In Demand for Job 💯 | Tips Included | #AWS #Azure #GCP #AMC",
+   "published": null,
+   "duration": 523,
+   "views": 155,
+   "short": false
+  },
+  {
+   "id": "cDcNPUO06vM",
+   "title": "AWS & Terraform Projects to Get You Hired 🚀 | #AWS #Terraform Projects | Cloud Project Ideas",
+   "published": null,
+   "duration": 449,
+   "views": 6100,
+   "short": false
+  },
+  {
+   "id": "PtGTO5_vdGY",
+   "title": "The Best AWS Cloud Projects (For Beginners) to Get You Hired 🚀 | #AWS Projects | Cloud Project Ideas",
+   "published": null,
+   "duration": 409,
+   "views": 6800,
+   "short": false
+  },
+  {
+   "id": "h3tSBn59EgA",
+   "title": "How HTTPS (Hypertext Transfer Protocol Secure) Works? | Cloud Interview Questions #AWS #Azure #GCP",
+   "published": null,
+   "duration": 481,
+   "views": 1000,
+   "short": false
+  },
+  {
+   "id": "uLEEhHVMAX8",
+   "title": "AWS AI & ML Scholarship Program (FREE) Get trained by AWS ML Experts | Free AI & ML Course | #AI #ML",
+   "published": null,
+   "duration": 426,
+   "views": 2100,
+   "short": false
+  },
+  {
+   "id": "9G3tA4HzDE4",
+   "title": "The Future of the Cloud Industry is... 😱 | #AWS #Azure #GCP | A Monk in Cloud",
+   "published": null,
+   "duration": 502,
+   "views": 113,
+   "short": false
+  },
+  {
+   "id": "pWcMD-nbeew",
+   "title": "Different Cloud Roles and Their Roles & Responsibilities Explained | Career in Cloud Computing #AWS",
+   "published": null,
+   "duration": 1205,
+   "views": 600,
+   "short": false
+  },
+  {
+   "id": "0r_QnAqXGOc",
+   "title": "AWS Cloud Clubs are live now!🎉| Student-led AWS User Groups | Build Your Career & Network | #AWS",
+   "published": null,
+   "duration": 265,
+   "views": 725,
+   "short": false
+  },
+  {
+   "id": "oKZt4Q3wahE",
+   "title": "#AWS EC2 Spot Instances Explained | How It Works? | Use cases of pot Instances | #LearnAWSFree #AMC",
+   "published": null,
+   "duration": 465,
+   "views": 2100,
+   "short": false
+  },
+  {
+   "id": "n5nHWQU2ffs",
+   "title": "Which Cloud to Learn? #AWS or #Azure or #GCP | Path to Learn Cloud Computing | Cloud Computing",
+   "published": null,
+   "duration": 307,
+   "views": 100,
+   "short": false
+  },
+  {
+   "id": "cD9qefHYoKY",
+   "title": "Cloud Engineer Roadmap | Land Cloud Job | How to become a Cloud Engineer in 2023 | #AWS #Azure #GCP",
+   "published": null,
+   "duration": 888,
+   "views": 770,
+   "short": false
+  },
+  {
+   "id": "CQmUQ-Ztca0",
+   "title": "Cloud Jobs Under Risk ..! Open AI Chat GPT will take over the jobs?",
+   "published": null,
+   "duration": 645,
+   "views": 2700,
+   "short": false
+  },
+  {
+   "id": "q8Do93Q7BqI",
+   "title": "What's AWS Regions & Availability Zones in Simple Terms | Why do we need Regions & AZs  | AWS Demo",
+   "published": null,
+   "duration": 1027,
+   "views": 732,
+   "short": false
+  },
+  {
+   "id": "9-Xx7-NkQ2E",
+   "title": "Retrieve Secret Value Stored in AWS Secret Manager in AWS EC2 | GetSecretValue in AWS EC2 | AWS Demo",
+   "published": null,
+   "duration": 1232,
+   "views": 11000,
+   "short": false
+  },
+  {
+   "id": "dMLvgvJ23LI",
+   "title": "EC2 Operations Stop Start Terminate AWS EC2 with Python Boto3 | AWS Boto3 Automation with Python",
+   "published": null,
+   "duration": 692,
+   "views": 11000,
+   "short": false
+  },
+  {
+   "id": "fZetPumwEpE",
+   "title": "D05 Variables and Variable Assignment in Terraform | Variables in Terraform #30DaysOfTerraform",
+   "published": null,
+   "duration": 1563,
+   "views": 1500,
+   "short": false
+  },
+  {
+   "id": "1nCk22M_6rQ",
+   "title": "Create EC2 in AWS with Python Boto3 & Lambda | AWS Boto3 Automation with Python [FULL COURSE]",
+   "published": null,
+   "duration": 757,
+   "views": 18000,
+   "short": false
+  },
+  {
+   "id": "2ruztbokul4",
+   "title": "D04 Creating VPC, Subnets, Route Table, Internet Gateway by Using Terraform #30DaysOfTerraform  #AMC",
+   "published": null,
+   "duration": 1568,
+   "views": 7600,
+   "short": false
+  },
+  {
+   "id": "eN4ezusKZy8",
+   "title": "D03 Creating AWS VPC Using Terraform | Create Infrastructure using Terraform Demo #30DaysOfTerraform",
+   "published": null,
+   "duration": 1359,
+   "views": 3500,
+   "short": false
+  },
+  {
+   "id": "yoc0qaWxMEY",
+   "title": "How I Would Learn Cloud Computing (If I Could Start Over) | How to learn AWS Azure GCP | #LearnCloud",
+   "published": null,
+   "duration": 319,
+   "views": 142,
+   "short": false
+  },
+  {
+   "id": "tbYcwgCXIsM",
+   "title": "D02 How to Authenticate Terraform with AWS | How to Refer Terraform Documentation #30DaysOfTerraform",
+   "published": null,
+   "duration": 1223,
+   "views": 2000,
+   "short": false
+  },
+  {
+   "id": "JU8PCPIVQcE",
+   "title": "Create AWS CLI Profile for IAM User #30DaysOfTerraform | Terraform and AWS Prerequisites | Demo",
+   "published": null,
+   "duration": 410,
+   "views": 1500,
+   "short": false
+  },
+  {
+   "id": "iaHkVN7nkH8",
+   "title": "Installing AWS CLI on Windows Machine #30DaysOfTerraform | Terraform and AWS Prerequisites | Demo",
+   "published": null,
+   "duration": 247,
+   "views": 1300,
+   "short": false
+  },
+  {
+   "id": "eupw9OP14z8",
+   "title": "Create IAM User with Programmatic Access #30DaysOfTerraform | Terraform and AWS Prerequisites | Demo",
+   "published": null,
+   "duration": 263,
+   "views": 3600,
+   "short": false
+  },
+  {
+   "id": "J4BgFXqp-V4",
+   "title": "Install Terraform on GNU/Linux Machine #30DaysOfTerraform | Terraform and AWS Prerequisites | Demo",
+   "published": null,
+   "duration": 305,
+   "views": 1000,
+   "short": false
+  },
+  {
+   "id": "g6GZwtLc0cw",
+   "title": "Install Terraform on Windows Machine #30DaysOfTerraform | Terraform and AWS Prerequisites | Demo",
+   "published": null,
+   "duration": 268,
+   "views": 3400,
+   "short": false
+  },
+  {
+   "id": "ZydUPn5V23c",
+   "title": "D01 Introduction to Terraform | What is Infrastructure as Code | Why Terraform #30DaysOfTerraform",
+   "published": null,
+   "duration": 1022,
+   "views": 1400,
+   "short": false
+  },
+  {
+   "id": "vF3TS4U6I_M",
+   "title": "Run Jenkins Behind Apache Reverse Proxy | Jenkins on HTTP Port 80 with Custom Domain Name | AWS Demo",
+   "published": null,
+   "duration": 1155,
+   "views": 6700,
+   "short": false
+  },
+  {
+   "id": "Imgg9_N4-7U",
+   "title": "A Monk in Cloud ☁️ #AMC Channel Introduction Video #aws #azure #DevOps #awscommunitybuilderprogram",
+   "published": null,
+   "duration": 123,
+   "views": 12000,
+   "short": false
+  },
+  {
+   "id": "SwSEmvWMuMU",
+   "title": "Connect to AWS EC2 Using AWS SSM Session Manager | Secure your EC2 by Enabling AWS SSM | AWS Demo",
+   "published": null,
+   "duration": 1149,
+   "views": 74000,
+   "short": false
+  },
+  {
+   "id": "kVHc6bkjp0g",
+   "title": "Don't Create VPC and VNet Without Watching This! AWS VPC & VNet Subnetting | Subnetting Made Easy!",
+   "published": null,
+   "duration": 1698,
+   "views": 499,
+   "short": false
+  },
+  {
+   "id": "9bn5o81ij74",
+   "title": "DevOps Project 2 | Jenkins CICD Automation | Build & Push Image to DockerHub using Jenkins | Part 3",
+   "published": null,
+   "duration": 1177,
+   "views": 2400,
+   "short": false
+  },
+  {
+   "id": "dgmL_tQi5ps",
+   "title": "DevOps Project 2 | Jenkins CICD Automation | Build & Push Image to DockerHub using Jenkins | Part 2",
+   "published": null,
+   "duration": 1128,
+   "views": 1900,
+   "short": false
+  },
+  {
+   "id": "sO7riVhzcbw",
+   "title": "How to Create Docker Hub Account and Create Access Tokens | #Docker Tutorial | Docker Hub Account",
+   "published": null,
+   "duration": 471,
+   "views": 8300,
+   "short": false
+  },
+  {
+   "id": "qMDIjO28lNU",
+   "title": "AWS Interview Questions #aws #shorts #awscommunitybuilderprogram #learnawsforfree #getawscertified 💸",
+   "published": null,
+   "duration": 61,
+   "views": 184,
+   "short": false
+  },
+  {
+   "id": "ahEdad8fdi8",
+   "title": "Install Jenkins on AWS EC2 Instance | Jenkins CICD | Jenkins on EC2 Instance | Jenkins | AWS Demo",
+   "published": null,
+   "duration": 919,
+   "views": 24000,
+   "short": false
+  },
+  {
+   "id": "P1xG37CR9_0",
+   "title": "AWS Interview Questions #aws #shorts #awscommunitybuilderprogram #learnawsforfree #getawscertified 💸",
+   "published": null,
+   "duration": 61,
+   "views": 206,
+   "short": false
+  },
+  {
+   "id": "z4m4GmXT4l4",
+   "title": "DevOps Project 2 | Jenkins CICD Automation | Build & Push Image to DockerHub using Jenkins | Part 1",
+   "published": null,
+   "duration": 985,
+   "views": 4500,
+   "short": false
+  },
+  {
+   "id": "JbmN_qbY6M0",
+   "title": "AWS Interview Questions #aws #shorts #awscommunitybuilderprogram #learnawsforfree #getawscertified 💸",
+   "published": null,
+   "duration": 61,
+   "views": 227,
+   "short": false
+  },
+  {
+   "id": "xd_pJ_i0nfQ",
+   "title": "AWS Interview Questions #aws #shorts #awscommunitybuilderprogram #learnawsforfree #getawscertified 💸",
+   "published": null,
+   "duration": 61,
+   "views": 345,
+   "short": false
+  },
+  {
+   "id": "IDt1pYA5ygc",
+   "title": "AWS Automation with Python Boto3 & Lambda Part-6 | AWS Automation | AWS Boto3 [FULL COURSE]",
+   "published": null,
+   "duration": 1076,
+   "views": 12000,
+   "short": false
+  },
+  {
+   "id": "72CBvFsbhH0",
+   "title": "AWS Interview Questions #aws #shorts #awscommunitybuilderprogram #learnawsforfree #getawscertified 💸",
+   "published": null,
+   "duration": 61,
+   "views": 292,
+   "short": false
+  },
+  {
+   "id": "6OcjhTQb3zw",
+   "title": "AWS Automation with Python Boto3 & Lambda Part-5 | AWS Automation | AWS Boto3 [FULL COURSE]",
+   "published": null,
+   "duration": 1001,
+   "views": 14000,
+   "short": false
+  },
+  {
+   "id": "CCz7gUT_mJk",
+   "title": "AWS Interview Questions #aws #awscommunitybuilderprogram #shorts #learnawsforfree #awscloudcertified",
+   "published": null,
+   "duration": 61,
+   "views": 465,
+   "short": false
+  },
+  {
+   "id": "ZxqlBoFlJlQ",
+   "title": "AWS Automation with Python Boto3 & Lambda Part-4 | AWS Automation | AWS Boto3 [FULL COURSE]",
+   "published": null,
+   "duration": 1170,
+   "views": 21000,
+   "short": false
+  },
+  {
+   "id": "Lrtocx-uXes",
+   "title": "AWS Automation with Python Boto3 & Lambda Part-3 | AWS Automation | AWS Boto3 [FULL COURSE]",
+   "published": null,
+   "duration": 955,
+   "views": 32000,
+   "short": false
+  },
+  {
+   "id": "wPLlyubWIME",
+   "title": "AWS Automation with Python Boto3 & Lambda Part-2 | AWS Automation | AWS Boto3 [FULL COURSE]",
+   "published": null,
+   "duration": 961,
+   "views": 40000,
+   "short": false
+  },
+  {
+   "id": "Ld1_vb1fH6c",
+   "title": "AWS Automation with Python Boto3 & Lambda Part-1 | AWS Automation | AWS Python Boto3  [FULL COURSE]",
+   "published": null,
+   "duration": 526,
+   "views": 81000,
+   "short": false
+  },
+  {
+   "id": "nxp-WEz0KE8",
+   "title": "Create AWS Resources with Terraform & Jenkins | DevOps Project | Terraform Jenkins Automation",
+   "published": null,
+   "duration": 1599,
+   "views": 40000,
+   "short": false
+  },
+  {
+   "id": "PZ40EVnuh40",
+   "title": "Import Existing AWS Resources as AWS CloudFormation & Terraform | Import Resources to AWS | AWS Demo",
+   "published": null,
+   "duration": 954,
+   "views": 4100,
+   "short": false
+  },
+  {
+   "id": "ct1GbTvgVNM",
+   "title": "Deploy Flask APP on AWS EC2 Instance | Flask on EC2 | Running Flask APP on AWS EC2 | AWS Demo",
+   "published": null,
+   "duration": 1008,
+   "views": 79000,
+   "short": false
+  },
+  {
+   "id": "kXnjZWMmJRI",
+   "title": "IEEE All India Students Young Professionals Women in Engineering Life Members Congress 2022 Memories",
+   "published": null,
+   "duration": 29,
+   "views": 57,
+   "short": false
+  },
+  {
+   "id": "cbx6eS7crto",
+   "title": "Deploy DJANGO APP on AWS EC2 Instance | DJANGO on EC2 | Running DJANGO APP on AWS EC2 | AWS Demo",
+   "published": null,
+   "duration": 723,
+   "views": 8700,
+   "short": false
+  },
+  {
+   "id": "q-NTKPb16SM",
+   "title": "AWS VPC Peering Connection Concept with Demo | VPC Peering | AWS VPC Peering Step by Step | AWS Demo",
+   "published": null,
+   "duration": 1389,
+   "views": 2200,
+   "short": false
+  },
+  {
+   "id": "S45jZCvd2M8",
+   "title": "Deploy NodeJS APP on AWS EC2 Instance | NodeJS on EC2 | Running NodeJS APP on AWS EC2 | AWS Projects",
+   "published": null,
+   "duration": 904,
+   "views": 63000,
+   "short": false
+  },
+  {
+   "id": "B4BYcJ0a9fI",
+   "title": "Microsoft Learn Cloud Skills Challenge | Complete One Challenge & Get Free Certification Exam 2022",
+   "published": null,
+   "duration": 312,
+   "views": 1300,
+   "short": false
+  },
+  {
+   "id": "Y9q7cTU8LCU",
+   "title": "What is Amazon CloudSearch | AWS CloudSearch | AWS Everyday | AWS For Beginners | AWSome Day Series",
+   "published": null,
+   "duration": 386,
+   "views": 1000,
+   "short": false
+  },
+  {
+   "id": "r2YO6QSqJog",
+   "title": "Site-to-Site VPN Azure & AWS | Securely Connect AWS VPC to Azure VNet via Site-to-Site VPN AWS Demo",
+   "published": null,
+   "duration": 2274,
+   "views": 19000,
+   "short": false
+  },
+  {
+   "id": "xTcaCso0gJU",
+   "title": "How to take Snapshots of an AWS RDS Instance | AWS RDS Snapshots and Backup | AWS RDS Zero to Hero",
+   "published": null,
+   "duration": 146,
+   "views": 6300,
+   "short": false
+  },
+  {
+   "id": "D3szUQRPXH8",
+   "title": "What is Amazon Athena | AWS Athena | Learn AWS Everyday | AWS For Beginners | AWSome Day Series",
+   "published": null,
+   "duration": 357,
+   "views": 539,
+   "short": false
+  },
+  {
+   "id": "7e_mjVUV-zA",
+   "title": "How Can I Connect to AWS RDS Instance from AWS EC2? | Connect to AWS RDS from AWS EC2 | AWS RDS Demo",
+   "published": null,
+   "duration": 435,
+   "views": 116000,
+   "short": false
+  },
+  {
+   "id": "TJ7BaLBU2xI",
+   "title": "Migrating a MariaDB Database from AWS EC2 onto an RDS Instance | DB Migration | AWS RDS Demo",
+   "published": null,
+   "duration": 676,
+   "views": 7500,
+   "short": false
+  },
+  {
+   "id": "hYkU8LRQLzk",
+   "title": "MariaDB Database on AWS EC2 Instance | MariaDB on AWS EC2 | Run MariaDB on AWS EC2 | EC2 Instance",
+   "published": null,
+   "duration": 694,
+   "views": 4300,
+   "short": false
+  },
+  {
+   "id": "RXhHdqw8Hak",
+   "title": "AWSSome Day Series Announcement | Learn AWS Services Everyday | AWS For Beginners | Learn AWS Free",
+   "published": null,
+   "duration": 87,
+   "views": 433,
+   "short": false
+  },
+  {
+   "id": "iaf5z1G0Q9E",
+   "title": "Get 50% Discount on AWS Specialty Certifications | Certification to Match Your Skills | Learn AWS",
+   "published": null,
+   "duration": 201,
+   "views": 837,
+   "short": false
+  },
+  {
+   "id": "sXy0oEyJiuM",
+   "title": "How to create an AWS Relational Database Service RDS | AWS RDS Service | RDS Zero to Hero | AWS Demo",
+   "published": null,
+   "duration": 1302,
+   "views": 13000,
+   "short": false
+  },
+  {
+   "id": "fmEM2LCKI5Y",
+   "title": "Introduction to AWS Relational Database Service RDS | AWS RDS Service | RDS Zero to Hero | AWS Demo",
+   "published": null,
+   "duration": 274,
+   "views": 1000,
+   "short": false
+  },
+  {
+   "id": "TLzSJhMatCY",
+   "title": "Weekend Masterclass 2 - AWS Route53 | Announcement | Route53 Full Course | Route53 Zero to Hero",
+   "published": null,
+   "duration": 75,
+   "views": 1200,
+   "short": false
+  },
+  {
+   "id": "rM_c7K0-tC0",
+   "title": "AWS Relational Database Service RDS Masterclass | AWS RDS Full Course | RDS Zero to Hero | AWS Demo",
+   "published": null,
+   "duration": 5532,
+   "views": 148000,
+   "short": false
+  },
+  {
+   "id": "xzrKA0lQwa4",
+   "title": "Weekend Masterclass 1 - AWS RDS | Announcement | AWS RDS Full Course | RDS Zero to Hero | AWS Demo",
+   "published": null,
+   "duration": 185,
+   "views": 3800,
+   "short": false
+  },
+  {
+   "id": "dgAzhQJzPkA",
+   "title": "AWS EC2 Monitoring with CloudWatch | Monitor Memory Utilization using CloudWatch | AWS CloudWatch",
+   "published": null,
+   "duration": 1254,
+   "views": 25000,
+   "short": false
+  },
+  {
+   "id": "ZO3SyRCSAdw",
+   "title": "AWS EC2 Monitoring with CloudWatch | Monitor CPU Utilization using CloudWatch | AWS CloudWatch Demo",
+   "published": null,
+   "duration": 1058,
+   "views": 18000,
+   "short": false
+  },
+  {
+   "id": "d4AozSwnEmY",
+   "title": "What is AWS CloudWatch | CloudWatch Namespace Metrics Data Point Dimensions & Alarm | AWS CloudWatch",
+   "published": null,
+   "duration": 858,
+   "views": 4000,
+   "short": false
+  },
+  {
+   "id": "1hpHn1uOEeI",
+   "title": "Host WordPress Site on AWS EC2 with Custom Domain | Host WordPress on AWS EC2 Instance? | AWS Demo",
+   "published": null,
+   "duration": 925,
+   "views": 8500,
+   "short": false
+  },
+  {
+   "id": "usOv-5_hzu0",
+   "title": "Increase EBS Volume Size without Stopping EC2 Instance in AWS | Extend EBS Volume size in EC2 | AWS",
+   "published": null,
+   "duration": 731,
+   "views": 32000,
+   "short": false
+  },
+  {
+   "id": "rWZ6hAQelWc",
+   "title": "How to take Backup & Restore EBS Volume with Increased Size of EBS Volume in AWS | Backup & Restore",
+   "published": null,
+   "duration": 911,
+   "views": 3100,
+   "short": false
+  },
+  {
+   "id": "iFrwNr5V2d0",
+   "title": "How to Encrypt an Existing EBS Volume on AWS | Encrypt Unencrypted Amazon EC2 Volume | AWS Live Demo",
+   "published": null,
+   "duration": 396,
+   "views": 7100,
+   "short": false
+  },
+  {
+   "id": "UAuOGlLcSP4",
+   "title": "How to Attach and Mount Extra EBS Volume to Windows EC2 in AWS | Mounting EBS Volume | AWS Live Demo",
+   "published": null,
+   "duration": 623,
+   "views": 16000,
+   "short": false
+  },
+  {
+   "id": "jnQoRZkPoWM",
+   "title": "How to Connect to Windows AWS EC2 Instance | Connect to Windows AWS EC2 Instance | Demo in 5 Minutes",
+   "published": null,
+   "duration": 360,
+   "views": 84000,
+   "short": false
+  },
+  {
+   "id": "OwdIhnpl4BQ",
+   "title": "How to Create Windows AWS EC2 Instance? | Create Windows AWS EC2 Instance | Live Demo in 5 Minutes",
+   "published": null,
+   "duration": 244,
+   "views": 83000,
+   "short": false
+  },
+  {
+   "id": "XqOoNMLlKus",
+   "title": "How to Attach and Mount Extra EBS Volume to Linux EC2 in AWS | Mounting EBS Volume | AWS Live Demo",
+   "published": null,
+   "duration": 708,
+   "views": 16000,
+   "short": false
+  },
+  {
+   "id": "lT9gscByc8Q",
+   "title": "How to change Hostname of an AWS EC2 Instance? | Change Hostname of an AWS EC2 Instances | Live Demo",
+   "published": null,
+   "duration": 441,
+   "views": 10000,
+   "short": false
+  },
+  {
+   "id": "OAHE8dokzSI",
+   "title": "How to launch WordPress Site on AWS EC2 | How to host WordPress Blog on AWS EC2 Instance? | Demo",
+   "published": null,
+   "duration": 435,
+   "views": 3400,
+   "short": false
+  },
+  {
+   "id": "AoP4rM6_dyY",
+   "title": "Metadata of EC2 in AWS | Magic IP of AWS - 169.254.169.254 | The Metadata Endpoint of Cloud | Demo",
+   "published": null,
+   "duration": 383,
+   "views": 6300,
+   "short": false
+  },
+  {
+   "id": "z0V0D1RzRPg",
+   "title": "How to Create Elastic IP & assign to EC2 Instance in AWS | Assign Elastic IP to EC2 Instance | Demo",
+   "published": null,
+   "duration": 475,
+   "views": 2200,
+   "short": false
+  },
+  {
+   "id": "7sj42RZW5QI",
+   "title": "Automated Snapshot of AWS EC2 Instance using Life Cycle Manager Method 2 | Automate Snapshots of EC2",
+   "published": null,
+   "duration": 360,
+   "views": 5700,
+   "short": false
+  },
+  {
+   "id": "SHjq9TfH7NA",
+   "title": "Automated Snapshots of AWS EC2 Instance using CloudWatch Rule Method 1 | Automate Snapshots of EC2",
+   "published": null,
+   "duration": 445,
+   "views": 3200,
+   "short": false
+  },
+  {
+   "id": "zKX3QOhWdtg",
+   "title": "How to restore Lost Key of an AWS EC2 Instance | How to connect to EC2 when key pair is lost | Demo",
+   "published": null,
+   "duration": 801,
+   "views": 5000,
+   "short": false
+  },
+  {
+   "id": "Dn881Oe_EN4",
+   "title": "Protect your AWS EC2 Instance from Accidental Termination | Enable Termination Protection on AWS EC2",
+   "published": null,
+   "duration": 350,
+   "views": 2100,
+   "short": false
+  },
+  {
+   "id": "-n25W1migQc",
+   "title": "Restore an AWS EC2 Instance from Snapshot | Backup of an EC2 Instance | AWS EC2 Instance | Live Demo",
+   "published": null,
+   "duration": 287,
+   "views": 34000,
+   "short": false
+  },
+  {
+   "id": "m8eA7PBfr5g",
+   "title": "How to take Snapshot of AWS EC2 Instance | Backup of an EC2 Instance | AWS EC2 Instance | EC2 Demo",
+   "published": null,
+   "duration": 230,
+   "views": 14000,
+   "short": false
+  },
+  {
+   "id": "Zv3pcJSsD2Y",
+   "title": "Microsoft Certified Trainer (MCT) | 2022 MCT Connect Conference Swag Unboxing | Microsoft Gift Unbox",
+   "published": null,
+   "duration": 79,
+   "views": 117,
+   "short": false
+  },
+  {
+   "id": "pKojSicDjIk",
+   "title": "Top paid courses to learn AWS | Good courses to learn AWS in 2022 | Learning AWS | Paid Resources",
+   "published": null,
+   "duration": 463,
+   "views": 782,
+   "short": false
+  },
+  {
+   "id": "3GBHTlnGRG4",
+   "title": "AWS SAA03 | AWS Solutions Architect Associate | EC2 Basics | Learn AWS Free | EC2 Instance | Day 003",
+   "published": null,
+   "duration": 776,
+   "views": 2200,
+   "short": false
+  },
+  {
+   "id": "vE5gXKhJbR4",
+   "title": "How to create Default VPC in AWS? | AWS SAA03 | AWS Solutions Architect Associate | VPC Basic Facts",
+   "published": null,
+   "duration": 377,
+   "views": 2000,
+   "short": false
+  },
+  {
+   "id": "fPvV3_73p5U",
+   "title": "Free Cloud Certification from Pluralsight and A Cloud Guru | Free certification courses #CloudHappy",
+   "published": null,
+   "duration": 161,
+   "views": 1300,
+   "short": false
+  },
+  {
+   "id": "l72kms2-HI4",
+   "title": "AWS SAA03 | AWS Solutions Architect Associate | VPC Basics | Learn AWS Free | VPC Facts | Day 002",
+   "published": null,
+   "duration": 784,
+   "views": 1100,
+   "short": false
+  },
+  {
+   "id": "0YTs40kvnW0",
+   "title": "Create EC2 instance from custom Amazon Machine Images (AMI) | AMI in AWS | Creating EC2 from AMI",
+   "published": null,
+   "duration": 470,
+   "views": 12000,
+   "short": false
+  },
+  {
+   "id": "2Ti6r34odOw",
+   "title": "Create custom Amazon Machine Images AMI from an EC2 instance |  Amazon Machine Images | Creating AMI",
+   "published": null,
+   "duration": 784,
+   "views": 36000,
+   "short": false
+  },
+  {
+   "id": "rtG8S5WsSHg",
+   "title": "MySql Server on AWS EC2 Instance | EC2 Instance | Demo | MySql Server in AWS | Run MySql on AWS EC2",
+   "published": null,
+   "duration": 730,
+   "views": 58000,
+   "short": false
+  },
+  {
+   "id": "Islmm-LMu38",
+   "title": "Host your personal site on AWS EC2 Instance | EC2 Instance | Demo | Website Hosting | Web App on EC2",
+   "published": null,
+   "duration": 953,
+   "views": 298000,
+   "short": false
+  },
+  {
+   "id": "K9FXQl8IMbE",
+   "title": "Learn AWS for Free in 2022 (Resources Included) | Top 5 resources to learn AWS | 100% Free Resources",
+   "published": null,
+   "duration": 363,
+   "views": 1700,
+   "short": false
+  },
+  {
+   "id": "GnRl6ETwHVE",
+   "title": "How to connect to AWS EC2 Instance? | Explained in 5 Mins | Learn AWS | Elastic Compute Cloud | Demo",
+   "published": null,
+   "duration": 486,
+   "views": 17000,
+   "short": false
+  },
+  {
+   "id": "BOIBZURNEIg",
+   "title": "How to create AWS EC2 Instance? | Explained in 5 Mins | Learn AWS | Elastic Compute Cloud | Demo",
+   "published": null,
+   "duration": 494,
+   "views": 16000,
+   "short": false
+  },
+  {
+   "id": "6yr8FqU1IcE",
+   "title": "AWS SAA | Introduction | AWS Solutions Architect | Deep Dive | Day001",
+   "published": null,
+   "duration": 1145,
+   "views": 16000,
+   "short": false
+  },
+  {
+   "id": "O6tlkpFmZds",
+   "title": "MySQL Database on Azure | Create a MySQL database server under 10 minutes using Microsoft Azure |",
+   "published": null,
+   "duration": 760,
+   "views": 42000,
+   "short": false
+  },
+  {
+   "id": "39z8SgWYgak",
+   "title": "Azure Container Instance Demo | Serverless Containers in Azure Cloud | Create Container Instance",
+   "published": null,
+   "duration": 512,
+   "views": 1000,
+   "short": false
+  },
+  {
+   "id": "nTdvRNOmur4",
+   "title": "Create Azure Kubernetes Cluster using Azure Portal | AKS Cluster | Azure Kubernetes Service | Demo",
+   "published": null,
+   "duration": 919,
+   "views": 5100,
+   "short": false
+  },
+  {
+   "id": "-ivfkiShuXo",
+   "title": "What is Cloud Computing? | Benefits | Types of Cloud | Cloud Services",
+   "published": null,
+   "duration": 698,
+   "views": 598,
+   "short": false
+  },
+  {
+   "id": "fm3ji5imfGI",
+   "title": "Azure Virtual Machine Tutorial | Creating A Virtual Machine In Azure | Azure Training | Demo",
+   "published": null,
+   "duration": 680,
+   "views": 187,
+   "short": false
+  },
+  {
+   "id": "GkW5Ur3Q3YE",
+   "title": "How to Pass AZ-900 | Study Material, Strategies, Tips and Review Notes | Free Resources",
+   "published": null,
+   "duration": 435,
+   "views": 820,
+   "short": false
+  },
+  {
+   "id": "3sW2GrGzwrA",
+   "title": "A Monk in Cloud Intro video | Cloud Computing",
+   "published": null,
+   "duration": 8,
+   "views": 307,
+   "short": false
+  },
+  {
+   "id": "oZKfI0ywgc4",
+   "title": "AWS Lambda Web Functions: Deploy Your App in One Command",
+   "published": "2026-10-31T13:30:37+00:00",
+   "duration": null,
+   "views": 289,
+   "short": true
+  },
+  {
+   "id": "CFtTwitynEg",
+   "title": "Loved Build with AWS at RV University! No slides, just live architecture, real cloud challenge",
+   "published": "2026-09-30T13:41:47+00:00",
+   "duration": null,
+   "views": 232,
+   "short": true
+  },
+  {
+   "id": "iOMzTJriRwc",
+   "title": "Turning ambition into architecture—here’s how real progress in cloud begins.",
+   "published": null,
+   "duration": null,
+   "views": 2000,
+   "short": true
+  },
+  {
+   "id": "ljcZBALVq6o",
+   "title": "✨ Happy Deepawali! ✨",
+   "published": null,
+   "duration": null,
+   "views": 626,
+   "short": true
+  },
+  {
+   "id": "6E30lUMRWfc",
+   "title": "DevOps Roadmap: From Beginner to Expert  #devops #cloudcomputing #aws #awscommunity #awsdevops",
+   "published": null,
+   "duration": null,
+   "views": 1200,
+   "short": true
+  },
+  {
+   "id": "I1rnhP4WQvk",
+   "title": "Microsoft's FREE AI Coding Masterclass! 🚀",
+   "published": null,
+   "duration": null,
+   "views": 861,
+   "short": true
+  },
+  {
+   "id": "OSHAg3J14bs",
+   "title": "How Caching Makes Apps Load Instantly | Fridge Snack Analogy Explained",
+   "published": null,
+   "duration": null,
+   "views": 2600,
+   "short": true
+  },
+  {
+   "id": "vTnLINsLxKw",
+   "title": "Loadbalancing Explained in Simple Terms | What is a Loadbalancer?",
+   "published": null,
+   "duration": null,
+   "views": 1700,
+   "short": true
+  },
+  {
+   "id": "0Hqh-SkBpUU",
+   "title": "3 Easy AWS Projects for Beginners | Learn Cloud Fast!",
+   "published": null,
+   "duration": null,
+   "views": 4000,
+   "short": true
+  },
+  {
+   "id": "v_T3meZaVuk",
+   "title": "Cloud Computing Roadmap: From Beginner to Expert",
+   "published": null,
+   "duration": null,
+   "views": 2100,
+   "short": true
+  },
+  {
+   "id": "WrWEVhpOzSE",
+   "title": "Join Databricks Learning Festival! Save 50% on certification & level up your data skills. 🎓",
+   "published": null,
+   "duration": null,
+   "views": 775,
+   "short": true
+  },
+  {
+   "id": "_ISPY0dNVVY",
+   "title": "AWS AI & ML Certification Challenge 2025: Get Certified & Save 50%! Limited Time Opportunity 🚀",
+   "published": null,
+   "duration": null,
+   "views": 748,
+   "short": true
+  },
+  {
+   "id": "quEeD3_EFRM",
+   "title": "Why is Load Balancing Needed?",
+   "published": null,
+   "duration": null,
+   "views": 531,
+   "short": true
+  },
+  {
+   "id": "aW-mMlk0cfE",
+   "title": "Load balancing keeps websites fast and smooth by sharing the load evenly! 🚦💻",
+   "published": null,
+   "duration": null,
+   "views": 275,
+   "short": true
+  },
+  {
+   "id": "OkQNA6JYSEU",
+   "title": "Wonder how your code goes live so fast? 🚀 CI/CD is the secret engine behind every modern app launch!",
+   "published": null,
+   "duration": null,
+   "views": 1900,
+   "short": true
+  },
+  {
+   "id": "KDg5jIMsvtE",
+   "title": "Bursting the top Five Cloud Myths! ☁️  #securecloud #education #cloudstorage #coding",
+   "published": null,
+   "duration": null,
+   "views": 1200,
+   "short": true
+  },
+  {
+   "id": "QpzaNE8-WuU",
+   "title": "Goodbye Microsoft Exclusivity: Build AI Apps with OpenAI on AWS!",
+   "published": null,
+   "duration": null,
+   "views": 691,
+   "short": true
+  },
+  {
+   "id": "ZxExfL0TZyY",
+   "title": "Feature Flags Explained with a Hotel Light Switch Analogy",
+   "published": null,
+   "duration": null,
+   "views": 1600,
+   "short": true
+  },
+  {
+   "id": "EseslEhcqU0",
+   "title": "Blue/Green Deployment Explained with an Airport Runway Analogy",
+   "published": null,
+   "duration": null,
+   "views": 1600,
+   "short": true
+  },
+  {
+   "id": "CtP4btGy_8E",
+   "title": "Canary Deployment Explained with a Restaurant Analogy",
+   "published": null,
+   "duration": null,
+   "views": 1100,
+   "short": true
+  },
+  {
+   "id": "yz-36XGQ9PE",
+   "title": "Experiencing Datadog Live 2025!",
+   "published": null,
+   "duration": null,
+   "views": 2200,
+   "short": true
+  },
+  {
+   "id": "VUlC3otJ3UM",
+   "title": "AWS EC2’s New Skip Shutdown: Instantly Stop or Terminate!",
+   "published": null,
+   "duration": null,
+   "views": 2400,
+   "short": true
+  },
+  {
+   "id": "XQs3fLpdZZs",
+   "title": "What happens when your app crashes? Discover Monitoring & Logging!",
+   "published": null,
+   "duration": null,
+   "views": 287,
+   "short": true
+  },
+  {
+   "id": "NPzTYkNG0Yo",
+   "title": "Docker Offload Explained in 60 Seconds — Your Laptop Will Thank You! 🐳🔥 @Docker",
+   "published": null,
+   "duration": null,
+   "views": 1600,
+   "short": true
+  },
+  {
+   "id": "Ol5vvtSSoNc",
+   "title": "Airtel users, your wish is granted! Get Perplexity Pro for FREE!",
+   "published": null,
+   "duration": null,
+   "views": 611,
+   "short": true
+  },
+  {
+   "id": "f7iMGCec2qM",
+   "title": "Get Oracle Certified for FREE | UpSkill in AI, OCI, Multicloud for Free | Race to Certification 2025",
+   "published": null,
+   "duration": null,
+   "views": 9900,
+   "short": true
+  },
+  {
+   "id": "8uLwQMXC2SE",
+   "title": "Ever wonder how apps get new features so fast? 🤔 Discover how CICD works in Software.",
+   "published": null,
+   "duration": null,
+   "views": 1200,
+   "short": true
+  },
+  {
+   "id": "Cuz7Rn-oFyw",
+   "title": "Discover how Docker packages your software perfectly, and how Kubernetes manages it all at scale...",
+   "published": null,
+   "duration": null,
+   "views": 1100,
+   "short": true
+  },
+  {
+   "id": "M8tEWijRaSs",
+   "title": "Cloud Disaster Recovery starts with RTO & RPO — they define how fast & how much data you can recover",
+   "published": null,
+   "duration": null,
+   "views": 2300,
+   "short": true
+  },
+  {
+   "id": "LgctWAbRuF4",
+   "title": "Unboxing My Dream: iPad Pro M4 (256GB WiFi) | Student Discount Win 💫",
+   "published": null,
+   "duration": null,
+   "views": 1300,
+   "short": true
+  },
+  {
+   "id": "YGaAslZE-vQ",
+   "title": "Worried about unexpected cloud bills? 🤔 On Day 19, we simplify AWS Pricing!",
+   "published": null,
+   "duration": null,
+   "views": 905,
+   "short": true
+  },
+  {
+   "id": "OXzfGnFZcYY",
+   "title": "AWS Security & Compliance! Discover how AWS builds layers of protection?",
+   "published": null,
+   "duration": null,
+   "views": 635,
+   "short": true
+  },
+  {
+   "id": "Zl7_LebEJJA",
+   "title": "Understanding Cost Optimization, a core AWS Well-Architected Pillar.",
+   "published": null,
+   "duration": null,
+   "views": 1000,
+   "short": true
+  },
+  {
+   "id": "lyzpFjw8V2I",
+   "title": "Performance Efficiency a core AWS Well-Architected Pillar how to get the most out of your resources?",
+   "published": null,
+   "duration": null,
+   "views": 1100,
+   "short": true
+  },
+  {
+   "id": "Se3OLJ-5_4Y",
+   "title": "Reliability in Cloud Computing – how cloud systems are built to perform correctly and consistently?",
+   "published": null,
+   "duration": null,
+   "views": 1800,
+   "short": true
+  },
+  {
+   "id": "giBVSM2nzHc",
+   "title": "Understanding Security in Cloud, a core AWS Well-Architected Pillar",
+   "published": null,
+   "duration": null,
+   "views": 1500,
+   "short": true
+  },
+  {
+   "id": "1Vh1agn2JiE",
+   "title": "Understanding Operational Excellence – The AWS Well-Architected Pillar",
+   "published": null,
+   "duration": null,
+   "views": 1000,
+   "short": true
+  },
+  {
+   "id": "95jk3FE65Vw",
+   "title": "Serverless – the cloud magic where you write code, and the cloud handles all the server headaches.",
+   "published": null,
+   "duration": null,
+   "views": 196,
+   "short": true
+  },
+  {
+   "id": "CPNyWTcf-gA",
+   "title": "Disaster Recovery in Cloud Computing – your ultimate plan for total tech failure!",
+   "published": null,
+   "duration": null,
+   "views": 809,
+   "short": true
+  },
+  {
+   "id": "aaUErAN2IVM",
+   "title": "I Built a Game with Amazon Q CLI and Got This Free T-Shirt from AWS! 🎮👕",
+   "published": null,
+   "duration": null,
+   "views": 2000,
+   "short": true
+  },
+  {
+   "id": "8SbYVwOHIjo",
+   "title": "Redundancy in Cloud Computing #Redundancy #CloudSecurity #DataProtection",
+   "published": null,
+   "duration": null,
+   "views": 320,
+   "short": true
+  },
+  {
+   "id": "Ndt6gkcS6Ms",
+   "title": "Scalability in Cloud Computing  #securecloud #cloudsecuritypodcast",
+   "published": null,
+   "duration": null,
+   "views": 281,
+   "short": true
+  },
+  {
+   "id": "3oFaWoFOeJg",
+   "title": "Elasticity in Cloud Computing  #securecloud #cloudsecuritypodcast",
+   "published": null,
+   "duration": null,
+   "views": 405,
+   "short": true
+  },
+  {
+   "id": "MfRVlJ7QrlU",
+   "title": "Fault Tolerance in Cloud Computing #aws #cloudcomputing #awscommunity",
+   "published": null,
+   "duration": null,
+   "views": 757,
+   "short": true
+  },
+  {
+   "id": "npI8GuTJKNY",
+   "title": "Demystifying High Availability! 🚀 Learn how cloud keeps your services always on.",
+   "published": null,
+   "duration": null,
+   "views": 945,
+   "short": true
+  },
+  {
+   "id": "WitjEqvJo3M",
+   "title": "Digging into Hybrid Cloud! 🍲 It's like a tech buffet – pick the best of public and private cloud!",
+   "published": null,
+   "duration": null,
+   "views": 858,
+   "short": true
+  },
+  {
+   "id": "7TVdc9eP5wY",
+   "title": "Unpacking Private Cloud! 🔒 Discover why some companies build their own cloud?",
+   "published": null,
+   "duration": null,
+   "views": 943,
+   "short": true
+  },
+  {
+   "id": "nnaoo03WaAU",
+   "title": "Demystifying Public Cloud!  We're talking AWS, Azure, Google Cloud.",
+   "published": null,
+   "duration": null,
+   "views": 326,
+   "short": true
+  },
+  {
+   "id": "rjkJ0a4mohM",
+   "title": "Cloud Service Models  #aws #cloudcomputing #community #awscommunity #awscommunitybuilderprogram",
+   "published": null,
+   "duration": null,
+   "views": 1200,
+   "short": true
+  },
+  {
+   "id": "KDfE_FyTHbU",
+   "title": "Demystifying the cloud, one reel at a time! 🚀 Day 1 we broke down Cloud Computing Basics.",
+   "published": null,
+   "duration": null,
+   "views": 899,
+   "short": true
+  },
+  {
+   "id": "mwLPaGp7MrY",
+   "title": "Had an amazing time at AWS Community Day Bengaluru 2025! #AWSCommunityDayBengaluru #AMonkInCloud",
+   "published": null,
+   "duration": null,
+   "views": 1100,
+   "short": true
+  },
+  {
+   "id": "BJg9Ad9LCFw",
+   "title": "50% Off on Google Cloud Certifications! Grab now",
+   "published": null,
+   "duration": null,
+   "views": 286,
+   "short": true
+  },
+  {
+   "id": "zRkEjx66qmg",
+   "title": "What is the Roles and Responsibility of @Microsoft @MicrosoftAzure  Cloud Solutions Architect",
+   "published": null,
+   "duration": null,
+   "views": 470,
+   "short": true
+  },
+  {
+   "id": "XTvS5e4cNLc",
+   "title": "Life @Microsoft as a Cloud Solutions Architect #Azure #cloudsolutionsarchitect #microsoft",
+   "published": null,
+   "duration": null,
+   "views": 880,
+   "short": true
+  },
+  {
+   "id": "hPNRdMz6x3M",
+   "title": "Your Cloud Corner: Understanding VPCs | What's VPC in Cloud?  #aws #python #community #cloudengineer",
+   "published": null,
+   "duration": null,
+   "views": 611,
+   "short": true
+  },
+  {
+   "id": "NrgLNubgWgU",
+   "title": "Code without Headache: What's Serverless?  #python #aws #community #coding #cloudengineer",
+   "published": null,
+   "duration": null,
+   "views": 771,
+   "short": true
+  },
+  {
+   "id": "HFstos-Zs7A",
+   "title": "What's CDN? Content Delivery Network ☁️ #python #aws #community #coding #cloudengineer #computing",
+   "published": null,
+   "duration": null,
+   "views": 807,
+   "short": true
+  },
+  {
+   "id": "odwm96lg5OM",
+   "title": "What are APIs? Application Programming Interface  #python #aws #community #coding #cloudengineer",
+   "published": null,
+   "duration": null,
+   "views": 380,
+   "short": true
+  },
+  {
+   "id": "P8GHN81DaCE",
+   "title": "What's Encryption?  #python #aws #community #coding #cloudengineer #cloudcomputing",
+   "published": null,
+   "duration": null,
+   "views": 266,
+   "short": true
+  },
+  {
+   "id": "7nQx26zVVLs",
+   "title": "What's an Algorithm?  #coding #community #python #cloudengineer #aws #cloudcomputing",
+   "published": null,
+   "duration": null,
+   "views": 157,
+   "short": true
+  },
+  {
+   "id": "Itev7jM9b3E",
+   "title": "What are Protocols?  #coding #aws #community #python #cloudengineer #cloudcomputing",
+   "published": null,
+   "duration": null,
+   "views": 194,
+   "short": true
+  },
+  {
+   "id": "OIi2fWCJ1ik",
+   "title": "Cloud Networking VS Traditional Networking",
+   "published": null,
+   "duration": null,
+   "views": 380,
+   "short": true
+  },
+  {
+   "id": "rsuEOSZOC_s",
+   "title": "What is the main advantage of using cloud services?  #aws #community #cloudengineer",
+   "published": null,
+   "duration": null,
+   "views": 153,
+   "short": true
+  },
+  {
+   "id": "b4rV6Vjughs",
+   "title": "Thank you 2023! Ready to conquer 2024 #2023recap #2024 #HappyNewYear #reflections",
+   "published": null,
+   "duration": null,
+   "views": 150,
+   "short": true
+  },
+  {
+   "id": "shw7xQGaeRk",
+   "title": "Let's dive into AWS basics. #cloud #devops #career #upskill",
+   "published": null,
+   "duration": null,
+   "views": 192,
+   "short": true
+  },
+  {
+   "id": "-DYgHGzEHW4",
+   "title": "Capturing the soul of Trivandrum in every frame – a journey of rich culture, and great memories",
+   "published": null,
+   "duration": null,
+   "views": 761,
+   "short": true
+  },
+  {
+   "id": "RO00F4rM7Vc",
+   "title": "Cloud/DevOps Aspirant Should be Part of this | AWS Cloud Clubs #Shorts #Trending",
+   "published": null,
+   "duration": null,
+   "views": 492,
+   "short": true
+  },
+  {
+   "id": "B42iWN0ooHQ",
+   "title": "Cloud/DevOps Aspirant Should be Part of this | HashiCorp Ambassador Program #Shorts #Trending",
+   "published": null,
+   "duration": null,
+   "views": 259,
+   "short": true
+  },
+  {
+   "id": "8hTk-LTyS78",
+   "title": "Cloud/DevOps Aspirant Should be Part of this | Docker Captains #Shorts #Trending #Docker",
+   "published": null,
+   "duration": null,
+   "views": 150,
+   "short": true
+  },
+  {
+   "id": "B7fpGpFCghM",
+   "title": "Cloud/DevOps Aspirant Should be Part of this | CNCF Ambassador Program #Shorts #Trending",
+   "published": null,
+   "duration": null,
+   "views": 248,
+   "short": true
+  },
+  {
+   "id": "f4Kb8yJzuus",
+   "title": "Cloud/DevOps Aspirant Should be Part of this | Google Developer Student Clubs #Shorts #Trending",
+   "published": null,
+   "duration": null,
+   "views": 63,
+   "short": true
+  },
+  {
+   "id": "GRxb3Ty3xyM",
+   "title": "AWS DEV DAY Bengaluru 2023 Glimpses #AWSDevDay #AWSCommunity #awsome #trending #Experience #Shorts",
+   "published": null,
+   "duration": null,
+   "views": 491,
+   "short": true
+  },
+  {
+   "id": "hrzAIcYH0E4",
+   "title": "Cloud/DevOps Aspirant Should be Part of this | Microsoft Learn Student Ambassadors #Shorts #Trending",
+   "published": null,
+   "duration": null,
+   "views": 54,
+   "short": true
+  },
+  {
+   "id": "iLPq7LcUQps",
+   "title": "Cloud/DevOps Aspirant Should be Part of this | AWS Heros Program #Shorts #Trending",
+   "published": null,
+   "duration": null,
+   "views": 71,
+   "short": true
+  },
+  {
+   "id": "eYeq1FBUsME",
+   "title": "Cloud/DevOps Aspirant Should be Part of this | AWS Partner Ambassador Program #Shorts #Trending",
+   "published": null,
+   "duration": null,
+   "views": 129,
+   "short": true
+  },
+  {
+   "id": "pZSihaxME58",
+   "title": "Cloud/DevOps Aspirant Should be Part of this | AWS Community Builders Program #Shorts #Trending",
+   "published": null,
+   "duration": null,
+   "views": 101,
+   "short": true
+  },
+  {
+   "id": "hZRLjWPiiwc",
+   "title": "Out of Office | Work Life Balance #outofoffice #worklifebalance #community",
+   "published": null,
+   "duration": null,
+   "views": 104,
+   "short": true
+  },
+  {
+   "id": "BaGxX8JTZyk",
+   "title": "100% FREE Oracle Cloud Infrastructure Certification | Valid till August 31 2023 #OracleCertified",
+   "published": null,
+   "duration": null,
+   "views": 7400,
+   "short": true
+  },
+  {
+   "id": "RpjkDJESydQ",
+   "title": "Delivered a talk on “Career Guidance” to the Students of PES College of Engineering, Mandya #career",
+   "published": null,
+   "duration": null,
+   "views": 1000,
+   "short": true
+  },
+  {
+   "id": "CGTp-LXmCZ8",
+   "title": "A Visit to God’s Own Country, Kerala, India.  #nature #trending #worklifebalance",
+   "published": null,
+   "duration": null,
+   "views": 342,
+   "short": true
+  },
+  {
+   "id": "uzPHLjzFuJk",
+   "title": "Talk on Cloud Computing and Its Possibilities at Vidyavardhaka Collegeof Engineering, Mysore #Shorts",
+   "published": null,
+   "duration": null,
+   "views": 694,
+   "short": true
+  },
+  {
+   "id": "PoeGPVZyrAk",
+   "title": "Workshop on Building a WebApp on AWS Cloud at Presidency University, Bengaluru | #shorts #trending",
+   "published": null,
+   "duration": null,
+   "views": 116,
+   "short": true
+  },
+  {
+   "id": "-3i7BHL8-hc",
+   "title": "Webinar on Cloud Computing to the Students of PES College of Engineering, Mandya | #shorts #trending",
+   "published": null,
+   "duration": null,
+   "views": 381,
+   "short": true
+  },
+  {
+   "id": "lGT-nLBvBKI",
+   "title": "AWS Sent me this Premium Swags 🤩 (@amazonwebservices) #Shorts #AWSCommunityBuilder #AWS #Community",
+   "published": null,
+   "duration": null,
+   "views": 731,
+   "short": true
+  },
+  {
+   "id": "PxIKfbpIH7Q",
+   "title": "AWS Sent me this Premium Swags 🤩 (@amazonwebservices) #Shorts #AWSCommunityBuilder #AWS #Community",
+   "published": null,
+   "duration": null,
+   "views": 497,
+   "short": true
+  },
+  {
+   "id": "XJ0kvPqrXDM",
+   "title": "50% Discount on Azure Certification Exams | Microsoft Cloud Skills Challenge #Azure #Shorts",
+   "published": null,
+   "duration": null,
+   "views": 367,
+   "short": true
+  },
+  {
+   "id": "tDO521OnZgk",
+   "title": "Get 100% FREE Google Cloud Certification Voucher in 2023! #GetCloudCertified2023 #GoogleCloud",
+   "published": null,
+   "duration": null,
+   "views": 1800,
+   "short": true
+  },
+  {
+   "id": "NuMPddBTO0M",
+   "title": "Give Away: 2 x 100$ AWS Credits #Shorts #AWSCertified #AWSCredits #community #aws",
+   "published": null,
+   "duration": null,
+   "views": 297,
+   "short": true
+  },
+  {
+   "id": "WxGdljllhlo",
+   "title": "Unboxing Apple Magic Mouse 🖱️ | Worth the Price? #Shorts",
+   "published": null,
+   "duration": null,
+   "views": 744,
+   "short": true
+  },
+  {
+   "id": "kRe4FhcoqR0",
+   "title": "Unboxing Keychron K2 Version 2 Keyboard ⌨️ #Shorts",
+   "published": null,
+   "duration": null,
+   "views": 520,
+   "short": true
+  },
+  {
+   "id": "mwxAEJtbBHg",
+   "title": "Benefits of Serverless Computing | #aws #cloud #amc #AWSServerless",
+   "published": null,
+   "duration": null,
+   "views": 144,
+   "short": true
+  },
+  {
+   "id": "ZWjDOevQDxM",
+   "title": "Best Practices for Cloud Security | #shorts #aws #cloud #devops #amc #LearnAWS #CloudSecurity",
+   "published": null,
+   "duration": null,
+   "views": 220,
+   "short": true
+  },
+  {
+   "id": "plO9Mneg2R4",
+   "title": "5 DevOps Best Practices to Follow in 2023 | #shorts #aws #azure #devops #cloud",
+   "published": null,
+   "duration": null,
+   "views": 563,
+   "short": true
+  },
+  {
+   "id": "uNch1OW45Jo",
+   "title": "What Activities do you do other than Work & Spending time with Family? I travel 🧭, What do you do?",
+   "published": null,
+   "duration": null,
+   "views": 685,
+   "short": true
+  },
+  {
+   "id": "LmwS7uC1NYc",
+   "title": "Get 50% Discount on AWS Professional Certification | #awscertified #awscommunity #shorts",
+   "published": null,
+   "duration": null,
+   "views": 147,
+   "short": true
+  },
+  {
+   "id": "CHLFzQ5Vfxc",
+   "title": "What is AWS Outposts? #shorts #AWSCommunity #AWSCommunityBuilders",
+   "published": null,
+   "duration": null,
+   "views": 411,
+   "short": true
+  },
+  {
+   "id": "QbAtjUm2rYc",
+   "title": "Top 5 DevOps Certifications in 2023 | Highest Paying Certs #shorts #k8s #terraform #linux #docker",
+   "published": null,
+   "duration": null,
+   "views": 599,
+   "short": true
+  },
+  {
+   "id": "BrFNvLXKV2g",
+   "title": "AWS Interview Questions #aws #shorts #awscommunitybuilderprogram #learnawsforfree #getawscertified 💸",
+   "published": null,
+   "duration": null,
+   "views": 314,
+   "short": true
+  },
+  {
+   "id": "tgb0_lSuHeY",
+   "title": "AWS Interview Questions #aws #shorts #awscommunitybuilderprogram #learnawsforfree #getawscertified 💸",
+   "published": null,
+   "duration": null,
+   "views": 196,
+   "short": true
+  },
+  {
+   "id": "gGF9DoWrQgM",
+   "title": "AWS Interview Questions #aws #shorts #awscommunitybuilderprogram #learnawsforfree #getawscertified 💸",
+   "published": null,
+   "duration": null,
+   "views": 227,
+   "short": true
+  },
+  {
+   "id": "rloZJGRrUYI",
+   "title": "AWS Interview Questions #aws #shorts #awscommunitybuilderprogram #learnawsforfree #getawscertified 💸",
+   "published": null,
+   "duration": null,
+   "views": 183,
+   "short": true
+  },
+  {
+   "id": "DgudYMiOCxU",
+   "title": "AWS Interview Questions #aws #shorts #awscommunitybuilderprogram #learnawsforfree #getawscertified 💸",
+   "published": null,
+   "duration": null,
+   "views": 209,
+   "short": true
+  },
+  {
+   "id": "ticBN9zAG_4",
+   "title": "AWS Interview Questions #aws #shorts #awscommunitybuilderprogram #learnawsforfree #getawscertified 💸",
+   "published": null,
+   "duration": null,
+   "views": 260,
+   "short": true
+  },
+  {
+   "id": "SGZqKrfHou4",
+   "title": "AWS Interview Questions #aws #shorts #awscommunitybuilderprogram #learnawsforfree #getawscertified 💸",
+   "published": null,
+   "duration": null,
+   "views": 244,
+   "short": true
+  },
+  {
+   "id": "Z2vsQrQTc6M",
+   "title": "AWS Interview Questions - What is EC2 #aws  #shorts #awscommunitybuilderprogram #learnawsforfree",
+   "published": null,
+   "duration": null,
+   "views": 1100,
+   "short": true
+  }
+ ]
+}
