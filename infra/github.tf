@@ -32,7 +32,13 @@ data "aws_iam_policy_document" "github_trust" {
     condition {
       test     = "StringEquals"
       variable = "token.actions.githubusercontent.com:sub"
-      values   = ["repo:${var.github_repo}:ref:refs/heads/main"]
+      # GitHub's OIDC "sub" now embeds owner/repo numeric IDs (owner@<id>/repo@<id>),
+      # e.g. repo:yeshwanthlm@66474973/yeshwanth-external-website@1455188347:ref:refs/heads/main.
+      # Allow both the classic name-only form and the new ID-qualified form.
+      values = [
+        "repo:${var.github_repo}:ref:refs/heads/main",
+        "repo:yeshwanthlm@66474973/yeshwanth-external-website@1455188347:ref:refs/heads/main",
+      ]
     }
   }
 }
