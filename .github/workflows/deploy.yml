@@ -1,0 +1,117 @@
+# Deploys yeshwanthlm.in on push to main and keeps assets/videos.json fresh hourly.
+# Auth is short-lived OIDC — no static AWS keys. The role assumed here is created by
+# infra/github.tf and only trusts the main branch of this repo (set via var.github_repo).
+#
+# Required repo variables (or secrets) — see README "First-time setup":
+#   AWS_ROLE_ARN        terraform output github_deploy_role_arn
+#   SITE_BUCKET         terraform output site_bucket
+#   CF_DISTRIBUTION_ID  terraform output cloudfront_distribution_id
+# Optional secret:
+#   YT_API_KEY           YouTube Data API v3 key (unset -> public RSS feed, latest 15 only)
+
+name: Deploy site
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "7 * * * *"   # hourly, a few minutes past the hour to dodge GitHub load
+  workflow_dispatch:
+    inputs:
+      sync:
+        description: "Also run the YouTube video sync now"
+        type: boolean
+        default: false
+
+# id-token: write is required for OIDC (sts:AssumeRoleWithWebIdentity).
+permissions:
+  id-token: write
+  contents: read
+
+jobs:
+  deploy:
+    name: Deploy to S3 + invalidate CloudFront
+    if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Configure AWS credentials (OIDC)
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ vars.AWS_ROLE_ARN || secrets.AWS_ROLE_ARN }}
+          aws-region: ap-south-1
+          audience: sts.amazonaws.com
+
+      - name: Sync site to S3
+        env:
+          SITE_BUCKET: ${{ vars.SITE_BUCKET || secrets.SITE_BUCKET }}
+        run: |
+          aws s3 sync . "s3://${SITE_BUCKET}" --delete \
+            --exclude '.git/*' \
+            --exclude '.github/*' \
+            --exclude 'infra/*' \
+            --exclude 'scripts/*' \
+            --exclude 'README.md' \
+            --exclude '.DS_Store'
+
+      - name: Invalidate CloudFront cache
+        env:
+          CF_DISTRIBUTION_ID: ${{ vars.CF_DISTRIBUTION_ID || secrets.CF_DISTRIBUTION_ID }}
+        run: |
+          id=$(aws cloudfront create-invalidation \
+            --distribution-id "${CF_DISTRIBUTION_ID}" \
+            --paths "/*" --query 'Invalidation.Id' --output text)
+          echo "Invalidation ${id} created; waiting for it to complete..."
+          aws cloudfront wait invalidation-completed \
+            --distribution-id "${CF_DISTRIBUTION_ID}" --id "${id}"
+
+  video-sync:
+    name: Refresh YouTube videos
+    if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && github.event.inputs.sync == 'true')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Snapshot current video list
+        run: jq -c '.videos' assets/videos.json > /tmp/before.json
+
+      - name: Fetch latest uploads
+        env:
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+        run: node scripts/fetch-videos.mjs   # no API key -> public RSS feed (latest 15, merged)
+
+      - name: Did the video list change?
+        id: diff
+        run: |
+          jq -c '.videos' assets/videos.json > /tmp/after.json
+          if cmp -s /tmp/before.json /tmp/after.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No new uploads — skipping deploy."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "New uploads detected — pushing assets/videos.json live."
+          fi
+
+      - name: Configure AWS credentials (OIDC)
+        if: steps.diff.outputs.changed == 'true'
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: ${{ vars.AWS_ROLE_ARN || secrets.AWS_ROLE_ARN }}
+          aws-region: ap-south-1
+          audience: sts.amazonaws.com
+
+      - name: Upload refreshed videos.json
+        if: steps.diff.outputs.changed == 'true'
+        env:
+          SITE_BUCKET: ${{ vars.SITE_BUCKET || secrets.SITE_BUCKET }}
+          CF_DISTRIBUTION_ID: ${{ vars.CF_DISTRIBUTION_ID || secrets.CF_DISTRIBUTION_ID }}
+        run: |
+          aws s3 cp assets/videos.json "s3://${SITE_BUCKET}/assets/videos.json"
+          aws cloudfront create-invalidation \
+            --distribution-id "${CF_DISTRIBUTION_ID}" \
+            --paths "/assets/videos.json" --query 'Invalidation.Id' --output text
